@@ -46,8 +46,8 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Md Kamrul Hasan was born in Tangail, Bangladesh, in 1992. Mr. Hasan received the BSc engineering degree in Electrical and Electronic Engineering (EEE) in 2014 from the Khulna University of Engineering & Technology, scoring summa-cum-laude CGPA of 3.93 (Out of 4.00) and ranked 1st out of 115 students in the class. In 2017, he completed the MSc engineering degree in EEE from KUET, scoring summa-cum-laude CGPA of 4.00 (Out of 4.00). Again, Mr. Hasan achieved another MSc degree in Erasmus Mundus Joint Master Degree Medical Imaging and Applications (MAIA) from France (the University of Burgundy), Italy (the University of Cassino and Southern Lazio), and Spain (the University of Girona) as an Erasmus scholar in 2019. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He worked in the medical image and artificial intelligence during the MAIA thesis at the EnCoV research team (Clermont-Ferrand, France) under the supervision of Dr. Lilian Calvet and Professor Dr. Adrien Bartoli, where he worked in Detection, Segmentation, and 3D Pose Estimation of Surgical Tools Using Deep Convolutional Neural Networks and Algebraic Geometry. Later, the thesis was published in the Journal of Medical Image Analysis (Elsevier). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_of_Md__Kamrul_Hasan.pdf" "newtab" >}}resume{{< /staticref >}}.

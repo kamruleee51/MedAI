@@ -22,9 +22,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/kamruleee51
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Md-Hasan-43
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/md-kamrul-hasan-0903051/
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCP5TWOoSUg8eO1niU2iniZw
 organizations:
   - name: Khulna University of Engineering & Technology
     url: https://kuet.ac.bd/

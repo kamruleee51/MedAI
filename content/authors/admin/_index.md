@@ -1,42 +1,46 @@
 ---
 title: Md Kamrul Hasan
-role: Professor of Artificial Intelligence
+role: Assistant Professor in Electrical and Electronic Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Medical Image Computing
+  - Computer Vision
+  - Data Science
+  - AR in Surgical Robotics
+
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kamruleee51
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/md-kamrul-hasan-0903051/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Khulna University of Engineering & Technology
+    url: https://kuet.ac.bd/
+
+# Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: Erasmus Mundus Joint Master Degree Medical Imaging and Applications (MAIA)
+    institution: University of Bourgogne (France), UNICAS (Italy), University of Girona (Spain)
+    year: 2019
+  - course: MSc in Electrical and Electronic Engineering (EEE)
+    institution: Khulna University of Engineering & Technology
+    year: 2017
+  - course: BSc in Electrical and Electronic Engineering (EEE)
+    institution: Khulna University of Engineering & Technology
+    year: 2014
+
 email: ""
 superuser: true
 highlight_name: true

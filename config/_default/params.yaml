@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Room EEE-301, Electrical Engineering Building, KUET, Khulna-9203 
+directions: Room 
 contact_links:
   - icon: facebook
     icon_pack: fab
@@ -41,7 +41,7 @@ contact_links:
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'https://join.skype.com/invite/UcAlU9Ya9H5h'
+    link: 'skype:echo123?call'
 
 # Site header
 

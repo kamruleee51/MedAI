@@ -41,7 +41,7 @@ tags:
 - Deep learning
 featured: true
 url_code: https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet
-
+url_video: https://www.youtube.com/watch?v=m3u58LN9lns&loop=0
  
 
 # Featured image

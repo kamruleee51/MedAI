@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: AI in Medical Image Computing  # Website name
-baseurl: 'https://example.com/' # Website URL
+title: Md Kamrul Hasan  # Website name AI in Medical Image Computing
+baseurl: 'https://mkh-ai-in-mic.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -66,3 +66,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

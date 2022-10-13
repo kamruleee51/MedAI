@@ -69,7 +69,7 @@ Another MSc degree in [Medical Imaging and Applications (MAIA)](https://maiamast
 
 During his MAIA thesis at the [EnCoV](http://igt.ip.uca.fr/encov/) research team (Clermont-Ferrand, France), Mr. Hasan studied laparoscopic imaging and AI under the supervision of [Professor Dr. Adrien Bartoli](https://scholar.google.com/citations?user=_KUZlKYAAAAJ&hl=en). 
 The thesis presented an [ART-Net](https://github.com/kamruleee51/ART-Net) to recognize, segment, and extract geometric features for 3D tool pose estimation of a surgical tool. 
-The segmented masks were employed for tool-aware AR in minimally invasive laparoscopy, increasing its depth perception. 
+The segmented masks were employed for [tool-aware AR](https://youtu.be/Knp4JIhH3Yo) in minimally invasive laparoscopy, increasing its depth perception. 
 The 3D tool posture was deployed for 3D measurement and overlaying the pre-operative 3D model onto the real-time laparoscopic image for computer-assisted laparoscopy.
 Later, the thesis was published in the Journal of [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) (Elsevier) in 2021 ([Article](https://doi.org/10.1016/j.media.2021.101994)).
 

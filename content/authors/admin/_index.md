@@ -39,7 +39,7 @@ organizations:
 education:
   courses:
   - course: PhD in Bioengineering (Medical Imaging with Physics-informed Neural Networks)
-    institution: Imperial College London (ICL), United Kingdom
+    institution: [Imperial College London (ICL)](https://www.imperial.ac.uk/), United Kingdom
     year: 2026 (Expected)
   - course: Erasmus Mundus Joint Master Degree Medical Imaging and Applications (MAIA) 
     institution: University of Burgundy (France), University of Cassino and Southern Lazio (Italy), University of Girona (Spain)

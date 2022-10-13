@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Project on Seam Curving
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

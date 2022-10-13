@@ -20,28 +20,28 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: m.k.hasan@eee.kuet.ac.bd 
-phone: +880 1645 268891
+email: k.hasan22@imperial.ac.uk 
+phone: +44 07466173552
 address:
-  street: KUET Road
-  city: Fulbarigate
-  region: Khulna
-  postcode: '9203'
-  country: Bangladesh
-  country_code: BD
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Room EEE-301, Electrical Engineering Building, KUET, Khulna-9203 
+  street: 86 Wood Ln
+  city: London 
+  #region: Khulna
+  postcode: 'W12 0BZ'
+  country: United Kingdom
+  country_code: UK
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: Room EEE-301, Electrical Engineering Building, KUET, Khulna-9203 
 contact_links:
   - icon: facebook
     icon_pack: fab
     name: DM Me
     link: 'https://www.facebook.com/kamrul51/'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:md_kamrul_hasan51?call'
 
 # Site header
 

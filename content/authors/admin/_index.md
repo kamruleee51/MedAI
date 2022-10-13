@@ -55,12 +55,12 @@ email: "k.hasan22@imperial.ac.uk"
 superuser: true
 highlight_name: true
 ---
-Md Kamrul Hasan is a PhD candidate in the Bioengineering department at [Imperial College London](https://www.imperial.ac.uk/), where he explores the deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
-He is an Assistant Professor (on Leave) in Electrical and Electronic Engineering at Khulna University of Engineering & Technology ([KUET](https://kuet.ac.bd/)). 
+Md Kamrul Hasan is a PhD candidate in the [Bioengineering](https://www.imperial.ac.uk/bioengineering/) department at [Imperial College London](https://www.imperial.ac.uk/), where he explores the deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
+He is an Assistant Professor (on Leave) in Electrical and Electronic Engineering ([EEE](https://www.kuet.ac.bd/department/EEE/)) at Khulna University of Engineering & Technology ([KUET](https://kuet.ac.bd/)). 
 Mr. Hasan's research interest primarily concentrates on developing automated AI-based systems for medical appliances.
 
 
-Mr. Hasan graduated from KUET in 2014 with a BSc in engineering in Electrical and Electronic Engineering (EEE), with a summa-cum-laude CGPA of 3.93 (out of 4.00) and taking first place out of 115 classmates. 
+Mr. Hasan graduated from KUET in 2014 with a BSc in engineering in EEE, with a summa-cum-laude CGPA of 3.93 (out of 4.00) and taking first place out of 115 classmates. 
 He graduated with a summa-cum-laude CGPA of 4.00 (out of 4.00) in 2017 after finishing his MSc engineering in EEE at KUET. 
 Another MSc degree in [Medical Imaging and Applications (MAIA)](https://maiamaster.udg.edu/) was earned by Mr. Hasan in 2019 through the Erasmus Mundus Joint Master Degree program from the [University of Burgundy](https://www.u-bourgogne.fr/) in France, [University of Cassino and Southern Lazio](http://www.eng.unicas.it/) in Italy, and [University of Girona](https://www.udg.edu/ca/) in Spain, obtaining a mark of 8.48 out of 10.0. 
 
@@ -70,22 +70,6 @@ The thesis presented an [ART-Net](https://github.com/kamruleee51/ART-Net) to rec
 The segmented masks were employed for tool-aware AR in minimally invasive laparoscopy, increasing its depth perception. 
 The 3D tool posture was deployed for 3D measurement and overlaying the pre-operative 3D model onto the real-time laparoscopic image for computer-assisted laparoscopy.
 Later, the thesis was published in the Journal of [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) (Elsevier) in 2021 ([Article](https://doi.org/10.1016/j.media.2021.101994)).
-
-
-
-
-Md Kamrul Hasan is an Assistant Professor in Electrical and Electronic Engineering at Khulna University of Engineering & Technology ([KUET](https://kuet.ac.bd/)) and works on AI in Medical Image Computing.
-He received a BSc engineering degree in Electrical and Electronic Engineering (EEE) in 2014 from the KUET, scoring summa-cum-laude CGPA of 3.93 (Out of 4.00) and ranked 1st out of 115 students in the class.
-In 2017, he completed the MSc engineering degree in EEE from KUET, scoring summa-cum-laude CGPA of 4.00 (Out of 4.00).
-Again, Mr. Hasan achieved another MSc degree in Erasmus Mundus Joint Master Degree [Medical Imaging and Applications (MAIA)](https://maiamaster.udg.edu/) in 2019 from France ([University of Burgundy](https://www.u-bourgogne.fr/)), Italy ([University of Cassino and Southern Lazio](http://www.eng.unicas.it/)), and Spain ([University of Girona](https://www.udg.edu/ca/)).
-
-
-He worked on the laparoscopic images and AI during the MAIA thesis at the [EnCoV](http://igt.ip.uca.fr/encov/) research team (Clermont-Ferrand, France) under the supervision of [Professor Dr. Adrien Bartoli](https://scholar.google.com/citations?user=_KUZlKYAAAAJ&hl=en).
-The thesis proposed an [ART-Net](https://github.com/kamruleee51/ART-Net) for simultaneous tool detection, segmentation, and geometric feature extraction.
-Those features were then utilized to estimate the 3D tool pose.
-The segmented masks were utilized for tool-aware rendering in Augmented Reality (AR) in minimally invasive surgeries, improving depth perception in laparosurgery.
-The 3D tool pose was used for 3D measurement and overlaying pre-operating 3D model onto the real-time laparoscopic image for AR in computer-assisted laparoscopy.
-
 
 
 

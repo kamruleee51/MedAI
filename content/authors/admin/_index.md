@@ -51,7 +51,7 @@ education:
     institution: Khulna University of Engineering & Technology
     year: 2014
 
-email: ""
+email: "k.hasan22@imperial.ac.uk"
 superuser: true
 highlight_name: true
 ---

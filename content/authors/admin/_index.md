@@ -55,9 +55,9 @@ email: "k.hasan22@imperial.ac.uk"
 superuser: true
 highlight_name: true
 ---
-Md Kamrul Hasan is a PhD candidate in the [Bioengineering](https://www.imperial.ac.uk/bioengineering/) department at [Imperial College London](https://www.imperial.ac.uk/), where he explores the deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
+Md Kamrul Hasan is a **PhD candidate** in the [Bioengineering](https://www.imperial.ac.uk/bioengineering/) department at [Imperial College London](https://www.imperial.ac.uk/), where he explores the deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
 He is an Assistant Professor (on Leave) in Electrical and Electronic Engineering ([EEE](https://www.kuet.ac.bd/department/EEE/)) at Khulna University of Engineering & Technology ([KUET](https://kuet.ac.bd/)). 
-Mr. Hasan's research interest primarily concentrates on developing automated AI-based systems for medical appliances.
+Mr. Hasan's research interest primarily concentrates on *developing automated AI-based systems for medical appliances.*
 
 
 Mr. Hasan graduated from KUET in 2014 with a BSc in engineering in EEE, with a summa-cum-laude CGPA of 3.93 (out of 4.00) and taking first place out of 115 classmates. 

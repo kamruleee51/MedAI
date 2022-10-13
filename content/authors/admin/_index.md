@@ -34,6 +34,8 @@ social:
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/
+  - name: Khulna University of Engineering & Technology
+    url: https://kuet.ac.bd/
 
 # Education to show in About widget
 education:

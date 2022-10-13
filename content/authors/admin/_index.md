@@ -1,6 +1,6 @@
 ---
 title: Md Kamrul Hasan
-role: Assistant Professor in Electrical and Electronic Engineering
+role: Research Postgraduate (PhD) in Bioengineering & Assistant Professor (on Leave) in Electrical and Electronic Engineering at KUET
 bio: My research interests include Artificial Intelligence, Deep Learning, Physics-informed Neural Networks, Medical Image Computing, Computer Vision, Data Science, AR in Surgical Robotics, Biomedical Signal Processing
 interests:
   - Artificial Intelligence
@@ -32,8 +32,8 @@ social:
     icon_pack: fab
     link: https://www.youtube.com/channel/UCP5TWOoSUg8eO1niU2iniZw
 organizations:
-  - name: Khulna University of Engineering & Technology
-    url: https://kuet.ac.bd/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
 
 # Education to show in About widget
 education:

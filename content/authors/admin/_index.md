@@ -38,20 +38,20 @@ organizations:
     url: https://kuet.ac.bd/
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Bioengineering (Medical Imaging with Physics-informed Neural Networks)
-    institution: Imperial College London (ICL), United Kingdom
-    year: 2026 (Expected)
-  - course: Erasmus Mundus Joint Master Degree Medical Imaging and Applications (MAIA) 
-    institution: University of Burgundy (France), University of Cassino and Southern Lazio (Italy), University of Girona (Spain)
-    year: 2019
-  - course: MSc in Electrical and Electronic Engineering (EEE)
-    institution: Khulna University of Engineering & Technology
-    year: 2017
-  - course: BSc in Electrical and Electronic Engineering (EEE)
-    institution: Khulna University of Engineering & Technology
-    year: 2014
+# education:
+#   courses:
+#   - course: PhD in Bioengineering (Medical Imaging with Physics-informed Neural Networks)
+#     institution: Imperial College London (ICL), United Kingdom
+#     year: 2026 (Expected)
+#   - course: Erasmus Mundus Joint Master Degree Medical Imaging and Applications (MAIA) 
+#     institution: University of Burgundy (France), University of Cassino and Southern Lazio (Italy), University of Girona (Spain)
+#     year: 2019
+#   - course: MSc in Electrical and Electronic Engineering (EEE)
+#     institution: Khulna University of Engineering & Technology
+#     year: 2017
+#   - course: BSc in Electrical and Electronic Engineering (EEE)
+#     institution: Khulna University of Engineering & Technology
+#     year: 2014
 
 email: "k.hasan22@imperial.ac.uk"
 superuser: true

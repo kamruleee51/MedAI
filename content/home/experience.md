@@ -46,7 +46,7 @@ experience:
         * Teach undergraduate students
         * Conduct cutting-edge research
   - title: Research Intern
-    company: EnCoV research team
+    company: EnCoV research team (University of Clermont Auvergne)
     company_url: 'http://igt.ip.uca.fr/encov/'
     location: Clermont-Ferrand, France
     date_start: '2019-02-01'

@@ -33,7 +33,7 @@ experience:
 		Deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
 
   - title: Assistant Professor
-    company: Khulna University of Engineering & Technology
+    company: Khulna University of Engineering & Technology11111
     company_url: 'https://www.kuet.ac.bd/'
     location: Khulna-9203, Bangladesh
     date_start: '2020-02-10'

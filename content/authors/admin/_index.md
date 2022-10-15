@@ -37,7 +37,7 @@ organizations:
   - name: Khulna University of Engineering & Technology
     url: https://kuet.ac.bd/
 
-# Education to show in About widget
+#Education to show in About widget
 education:
   courses:
   - course: PhD in Bioengineering (Medical Imaging with Physics-informed Neural Networks)

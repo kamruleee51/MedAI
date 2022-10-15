@@ -23,7 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Khulna University of Engineering & Technology11111
+    company: Khulna University of Engineering & Technology
+    company_url: 'https://www.kuet.ac.bd/'
+    location: Khulna-9203, Bangladesh
+    date_start: '2020-02-10'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Teach undergraduate students
+        * Conduct cutting-edge research
+		
+  - title: Assistant Professor
+    company: Khulna University of Engineering & Technology
     company_url: 'https://www.kuet.ac.bd/'
     location: Khulna-9203, Bangladesh
     date_start: '2020-02-10'

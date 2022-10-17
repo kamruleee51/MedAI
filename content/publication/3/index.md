@@ -37,12 +37,13 @@ prediction is made publicly available."
 summary: ''
 
 tags:
-- Diabetes prediction
-- Ensembling classifier
+- Diabetes
+- Measurement
+- Maximum likelihood estimation
 - Machine learning
-- Multilayer perceptron
-- Missing values and outliers
-- Pima Indian Diabetic dataset
+- Standardization
+- Feature extraction
+- Predictive models
 featured: true
 url_code: https://github.com/kamruleee51/Diabetes-Prediction-Using-ML-Classifiers
 

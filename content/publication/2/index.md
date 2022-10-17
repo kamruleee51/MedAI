@@ -2,11 +2,11 @@
 title: "DSNet: Automatic dermoscopic skin lesion segmentation"
 authors:
 - "Md Kamrul Hasan, Lavsen Dahal, Prasad N. Samarakoon, Fakrul Islam Tushar, Robert Martí"
-date: "2020-04-2"
+date: "2020-03-27"
 doi: "10.1016/j.compbiomed.2020.103738"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-06"
+publishDate: "2020-04-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -63,5 +63,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---

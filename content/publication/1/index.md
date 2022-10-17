@@ -1,12 +1,12 @@
 ---
 title: Brain Tissue Segmentation Using NeuroNet With Different Pre-processing Techniques
 authors:
-- F. I. Tushar, B. Alyafi, M. K. Hasan and L. Dahal
-date: "2019-10-07"
+- Fakrul Islam Tushar, Basel Alyafi, Md. Kamrul Hasan, Lavsen Dahal
+date: "2019-06-02"
 doi: "10.1109/ICIEV.2019.8858515"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01"
+publishDate: "2019-10-07"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,8 +24,12 @@ abstract: Automatic segmentation of brain Magnetic Resonance Imaging (MRI) image
 summary: ''
 
 tags:
-- Deep-learning
-- Brain Tissue Segmentation
+- Histograms
+- Image segmentation
+- Pipelines
+- Training
+- Brain modeling
+- Feature extraction
 #featured: true
 
 links:

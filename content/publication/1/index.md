@@ -26,7 +26,7 @@ summary: ''
 tags:
 - Deep-learning
 - Brain Tissue Segmentation
-featured: true
+#featured: true
 
 links:
 - name: Pre-print

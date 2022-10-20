@@ -39,11 +39,13 @@ An informative comparison, recent research trends, and some recommendations are 
 summary: ''
 
 tags:
-- Emotion
-- Electroencephalogram
-- Human-computer interaction
-- Deep learning
-- Shallow learning
+- Emotion recognition
+- Electroencephalography
+- Brain modeling
+- Support vector machines
+- Solid modeling
+- Human computer interaction
+- Three-dimensional displays
 #featured: true
 url_code: ""
  

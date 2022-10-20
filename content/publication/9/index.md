@@ -40,11 +40,13 @@ a medical diagnostic aiding tool for helping experts with quicker and more accur
 summary: ''
 
 tags:
-- Bayesian framework
-- Deep convolutional neural network
-- Non-rigid registration
-- Probabilistic atlas
-- Whole heart segmentation
+- Heart
+- Image segmentation
+- Magnetic resonance imaging
+- Computed tomography
+- Shape
+- Blood
+- Training
 #featured: true
 url_code: ""
  

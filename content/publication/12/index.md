@@ -1,14 +1,14 @@
 ---
 title: "Automatic Mass Classification in Breast Using Transfer Learning of Deep Convolutional Neural Network and Support Vector Machine"
 authors:
-- "Aishwariya Dutta, Md Kamrul Hasan, Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Tajwar Abrar Aleef, Shidhartho Roy"
 #date: "2020-04-2"
 doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021"
+publishDate: "2020-11-02"
 
 
 # Publication type.
@@ -36,12 +36,13 @@ from Mammograms by using the pre-trained DCNN, which can be used with the SVM cl
 summary: ''
 
 tags:
+- Feature extraction
+- Support vector machines
+- Pipelines
+- Robustness
+- Convolutional neural networks
+- Breast cancer
 - Mammography
-- Deep Convolutional Neural Networks
-- Transfer Learning
-- Support Vector Machine
-- INbreast dataset
-
 #featured: true
 url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

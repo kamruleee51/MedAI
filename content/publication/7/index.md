@@ -46,11 +46,13 @@ study are available at https://github.com/kamruleee51/measles_vaccine_uptake."
 summary: ''
 
 tags:
-- Attribute selection
-- Measles vaccine uptake classification
-- Measles BDHS data
-- Missing value imputation
-- Weighted ensemble ML model
+- Vaccines
+- Diseases
+- Pediatrics
+- Data models
+- Predictive models
+- Training
+- Information technology
 #featured: true
 url_code: "https://github.com/kamruleee51/measles_vaccine_uptake"
  

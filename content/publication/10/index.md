@@ -8,7 +8,7 @@ doi: "https://doi.org/10.1016/j.imu.2021.100709"
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021"
+publishDate: "2021-08-18"
 
 
 # Publication type.
@@ -40,9 +40,11 @@ results delegate it as a favorable aiding tool for clinical practitioners and ra
 summary: ''
 
 tags:
-- ??
-- ??
- 
+- COVID-19
+- 3D convolutional neural network
+- Volumetric chest CT scans
+- 3D patches
+- Progressive resizing
 #featured: true
 url_code: ""
  

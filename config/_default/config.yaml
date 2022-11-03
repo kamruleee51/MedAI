@@ -5,7 +5,7 @@
 
 title: Md Kamrul Hasan  # Website name AI in Medical Image Computing
 baseurl: 'https://mkh-ai-in-mic.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '@2022 MKH' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

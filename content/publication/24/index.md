@@ -1,14 +1,14 @@
 ---
-title: "Automatic Mass Classification in Breast Using Transfer Learning of Deep Convolutional Neural Network and Support Vector Machine"
+title: "Comparative Analysis of Automatic Skin Lesion Segmentation with Two Different Implementations"
 authors:
-- "Md. Kamrul Hasan, Tajwar Abrar Aleef, Shidhartho Roy"
+- "Md. Kamrul Hasan, Basel Alyafi, Fakrul Islam Tushar"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
+doi: "https://doi.org/10.48550/arXiv.1904.03075"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-02"
+publishDate: "2019-04-05"
 
 
 # Publication type.
@@ -18,33 +18,24 @@ publishDate: "2020-11-02"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Region 10 Symposium (TENSYMP), 20115574"
-publication_short: "IEEE Region 10 Symposium (TENSYMP), 20115574"
+publication: "arXiv:1904.03075"
+publication_short: "Computer Vision and Pattern Recognition"
 
 
-abstract: "Mammography is the most widely used gold standard for screening breast cancer, where mass classification is a prominent step. 
-Classification of mass in the breast is, however, an arduous problem as they usually have large variations in terms of shape, size, boundary, 
-and texture. In this study, the process of mass classification is automated with the use of transfer learning of Deep Convolutional Neural 
-Networks (DCNN) to extract features, the bagged decision tree for feature selection, and finally a Support Vector Machine (SVM) 
-classifier for classifying the mass and non-mass tissue. Area Under ROC Curve (AUC) is chosen as the performance metric, which is 
-then maximized for hyper-parameter tuning using a grid search. All experiments, in this paper, were conducted using the INbreast dataset. 
-The best obtained AUC from the experimental results is O.994±0.003. Our results conclude that high-level distinctive features can be extracted 
-from Mammograms by using the pre-trained DCNN, which can be used with the SVM classifier to robustly distinguish between the mass and non-mass
- presence in the breast."
+abstract: "LESION segmentation from the surrounding skin is the first task for developing automatic Computer-Aided Diagnosis of skin cancer. Variant features of lesion like uneven distribution of color, irregular shape, border and texture make this task challenging. The contribution of this paper is to present and compare two different approaches to skin lesion segmentation. The first approach uses watershed, while the second approach uses mean-shift. Pre-processing steps were performed in both approaches for removing hair and dark borders of microscopic images. The Evaluation of the proposed approaches was performed using Jaccard Index (Intersection over Union or IoU). An additional contribution of this paper is to present pipelines for performing pre-processing and segmentation applying existing segmentation and morphological algorithms which led to promising results. On average, the first approach showed better performance than the second one with average Jaccard Index over 200 ISIC-2017 challenge images are 89.16 % and 76.94 % respectively."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Feature extraction
-- Support vector machines
-- Pipelines
-- Robustness
-- Convolutional neural networks
-- Breast cancer
-- Mammography
+- Melanoma
+- Skin lesion segmentation
+- Color space
+- Watershed
+- Meanshift
+- Region growing.
 #featured: true
-url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
+# url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,36 +1,28 @@
 ---
-title: "Automatic Mass Classification in Breast Using Transfer Learning of Deep Convolutional Neural Network and Support Vector Machine"
+title: "Prediction of Epileptic Seizure by Analysing Time Series EEG Signal Using -NN Classifier"
 authors:
-- "Md. Kamrul Hasan, Tajwar Abrar Aleef, Shidhartho Roy"
+- "Md. Kamrul Hasan, Md. Asif Ahamed, Mohiuddin Ahmad, M. A and Rashid"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
+doi: "https://doi.org/10.1155/2017/6848014"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-02"
+publishDate: "2017-08-13"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Region 10 Symposium (TENSYMP), 20115574"
-publication_short: "IEEE Region 10 Symposium (TENSYMP), 20115574"
+publication: "Hindawi"
+publication_short: "Applied Bionics and Biomechanics"
 
 
-abstract: "Mammography is the most widely used gold standard for screening breast cancer, where mass classification is a prominent step. 
-Classification of mass in the breast is, however, an arduous problem as they usually have large variations in terms of shape, size, boundary, 
-and texture. In this study, the process of mass classification is automated with the use of transfer learning of Deep Convolutional Neural 
-Networks (DCNN) to extract features, the bagged decision tree for feature selection, and finally a Support Vector Machine (SVM) 
-classifier for classifying the mass and non-mass tissue. Area Under ROC Curve (AUC) is chosen as the performance metric, which is 
-then maximized for hyper-parameter tuning using a grid search. All experiments, in this paper, were conducted using the INbreast dataset. 
-The best obtained AUC from the experimental results is O.994±0.003. Our results conclude that high-level distinctive features can be extracted 
-from Mammograms by using the pre-trained DCNN, which can be used with the SVM classifier to robustly distinguish between the mass and non-mass
- presence in the breast."
+abstract: "Electroencephalographic signal is a representative signal that contains information about brain activity, which is used for the detection of epilepsy since epileptic seizures are caused by a disturbance in the electrophysiological activity of the brain. The prediction of epileptic seizure usually requires a detailed and experienced analysis of EEG. In this paper, we have introduced a statistical analysis of EEG signal that is capable of recognizing epileptic seizure with a high degree of accuracy and helps to provide automatic detection of epileptic seizure for different ages of epilepsy. To accomplish the target research, we extract various epileptic features namely approximate entropy (ApEn), standard deviation (SD), standard error (SE), modified mean absolute value (MMAV), roll-off (), and zero crossing (ZC) from the epileptic signal. The -nearest neighbours (-NN) algorithm is used for the classification of epilepsy then regression analysis is used for the prediction of the epilepsy level at different ages of the patients. Using the statistical parameters and regression analysis, a prototype mathematical model is proposed which helps to find the epileptic randomness with respect to the age of different subjects. The accuracy of this prototype equation depends on proper analysis of the dynamic information from the epileptic EEG."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -40,11 +32,9 @@ tags:
 - Support vector machines
 - Pipelines
 - Robustness
-- Convolutional neural networks
-- Breast cancer
-- Mammography
+
 #featured: true
-url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
+# url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

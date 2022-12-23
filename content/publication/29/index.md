@@ -1,14 +1,14 @@
 ---
-title: "Automatic Mass Classification in Breast Using Transfer Learning of Deep Convolutional Neural Network and Support Vector Machine"
+title: "Design and Simulation of Maximum Power Point Tracking of Photovoltaic System Using ANN"
 authors:
-- "Md. Kamrul Hasan, Tajwar Abrar Aleef, Shidhartho Roy"
+- "Md. Samiul Haque Sunny, Abu Naim Rakib Ahmed, Md. Kamrul Hasan"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
+doi: "https://doi.org/10.1109/CEEICT.2016.7873105"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-02"
+publishDate: "2016-09-23"
 
 
 # Publication type.
@@ -18,33 +18,23 @@ publishDate: "2020-11-02"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Region 10 Symposium (TENSYMP), 20115574"
-publication_short: "IEEE Region 10 Symposium (TENSYMP), 20115574"
+publication: "IEEE"
+publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
 
 
-abstract: "Mammography is the most widely used gold standard for screening breast cancer, where mass classification is a prominent step. 
-Classification of mass in the breast is, however, an arduous problem as they usually have large variations in terms of shape, size, boundary, 
-and texture. In this study, the process of mass classification is automated with the use of transfer learning of Deep Convolutional Neural 
-Networks (DCNN) to extract features, the bagged decision tree for feature selection, and finally a Support Vector Machine (SVM) 
-classifier for classifying the mass and non-mass tissue. Area Under ROC Curve (AUC) is chosen as the performance metric, which is 
-then maximized for hyper-parameter tuning using a grid search. All experiments, in this paper, were conducted using the INbreast dataset. 
-The best obtained AUC from the experimental results is O.994±0.003. Our results conclude that high-level distinctive features can be extracted 
-from Mammograms by using the pre-trained DCNN, which can be used with the SVM classifier to robustly distinguish between the mass and non-mass
- presence in the breast."
+abstract: "Now a days in power generation, renewable energy plays a vital role in which photovoltaic energy generation placed top in the list of the renewable energy because of the easy process of generation. The photovoltaic energy depends on the solar irradiance and the temperature. To get the maximum power from the PV panel, the idea of Maximum Power Point Tracking (MPPT) is arrived. Too many algorithms and controllers have been considered in the past to track the maximum power and to reduce the tracking time and also to improve the efficiency of PV panel. In this paper, Artificial Neural Network (ANN) techniques is proposed to track the maximum power. The proposed method has been evaluated by simulation in MATLAB environment. The simulation results show the effectiveness of the proposed technique and its ability to track the maximum power of the PV panel."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Feature extraction
-- Support vector machines
-- Pipelines
-- Robustness
-- Convolutional neural networks
-- Breast cancer
-- Mammography
+- Training
+- Artificial neural networks
+- Mathematical model
+- Solar panels
+- Maximum power point trackers
 #featured: true
-url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
+# url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

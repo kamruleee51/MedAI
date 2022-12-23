@@ -1,14 +1,14 @@
 ---
-title: "Automatic Mass Classification in Breast Using Transfer Learning of Deep Convolutional Neural Network and Support Vector Machine"
+title: "Drowsiness Detection for the Perfection of Brain Computer Interface Using Viola-jones Algorithm"
 authors:
-- "Md. Kamrul Hasan, Tajwar Abrar Aleef, Shidhartho Roy"
+- "Md. Kamrul Hasan, S. M. Hasnat Ullah, Shantanu Sen Gupta, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
+doi: "https://doi.org/10.1109/CEEICT.2016.7873106"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-02"
+publishDate: "2016-09-23"
 
 
 # Publication type.
@@ -18,33 +18,25 @@ publishDate: "2020-11-02"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Region 10 Symposium (TENSYMP), 20115574"
-publication_short: "IEEE Region 10 Symposium (TENSYMP), 20115574"
+publication: "IEEE"
+publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
 
 
-abstract: "Mammography is the most widely used gold standard for screening breast cancer, where mass classification is a prominent step. 
-Classification of mass in the breast is, however, an arduous problem as they usually have large variations in terms of shape, size, boundary, 
-and texture. In this study, the process of mass classification is automated with the use of transfer learning of Deep Convolutional Neural 
-Networks (DCNN) to extract features, the bagged decision tree for feature selection, and finally a Support Vector Machine (SVM) 
-classifier for classifying the mass and non-mass tissue. Area Under ROC Curve (AUC) is chosen as the performance metric, which is 
-then maximized for hyper-parameter tuning using a grid search. All experiments, in this paper, were conducted using the INbreast dataset. 
-The best obtained AUC from the experimental results is O.994±0.003. Our results conclude that high-level distinctive features can be extracted 
-from Mammograms by using the pre-trained DCNN, which can be used with the SVM classifier to robustly distinguish between the mass and non-mass
- presence in the breast."
+abstract: "Security and reconnaissance applications are prominent BCI paradigms which are less complex and sophisticated if there is no contamination in Electroencephalogram (EEG) signal. The better the quality of EEG signal ensures the better the performance (better Information Transfer Rate (ITR), high Signal to Noise Ratio (SNR), high Bandwidth (BW), and so on) of BCI paradigms. Drowsiness is one of the major contamination in EEG signal that hampers the operation of modern BCI paradigms. In this research, a non-intrusive machine vision based concept is used to determine the drowsiness from the patient which ensure the drowsy free EEG signal. In this proposed system, a camera which placed in a way that it records subjects (BCI Users) eye movement in every time as well as it can monitor the open and close state of eye. Viola-jones Algorithm is applicable for the detection of face as well as state of eye (Open, closed or semi-open) which is the key concern for the detection of drowsiness from the patient's EEG signal. After detecting this drowsiness, decision can be easily made for the perfect operation of BCI."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
+- Electroencephalography
+- Band-pass filters
+- Face
+- Contamination
+- Cameras
+- Monitoring
 - Feature extraction
-- Support vector machines
-- Pipelines
-- Robustness
-- Convolutional neural networks
-- Breast cancer
-- Mammography
 #featured: true
-url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
+# url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

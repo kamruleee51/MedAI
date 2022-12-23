@@ -1,50 +1,41 @@
 ---
-title: "Automatic Mass Classification in Breast Using Transfer Learning of Deep Convolutional Neural Network and Support Vector Machine"
+title: "User Independency of SSVEP Based Brain Computer Interface Using ANN Classifier: Statistical Approach"
 authors:
-- "Md. Kamrul Hasan, Tajwar Abrar Aleef, Shidhartho Roy"
+- "Md. Kamrul Hasan,  Md. Samiul H. Sunny, Shifat Hossain, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
+doi: "https://doi.org/10.1007/978-3-319-60663-7_6"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-02"
+publishDate: "2017-06-20"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Region 10 Symposium (TENSYMP), 20115574"
-publication_short: "IEEE Region 10 Symposium (TENSYMP), 20115574"
+publication: "Springer, Cham"
+publication_short: "International Conference on Computing and Information Technology"
 
 
-abstract: "Mammography is the most widely used gold standard for screening breast cancer, where mass classification is a prominent step. 
-Classification of mass in the breast is, however, an arduous problem as they usually have large variations in terms of shape, size, boundary, 
-and texture. In this study, the process of mass classification is automated with the use of transfer learning of Deep Convolutional Neural 
-Networks (DCNN) to extract features, the bagged decision tree for feature selection, and finally a Support Vector Machine (SVM) 
-classifier for classifying the mass and non-mass tissue. Area Under ROC Curve (AUC) is chosen as the performance metric, which is 
-then maximized for hyper-parameter tuning using a grid search. All experiments, in this paper, were conducted using the INbreast dataset. 
-The best obtained AUC from the experimental results is O.994±0.003. Our results conclude that high-level distinctive features can be extracted 
-from Mammograms by using the pre-trained DCNN, which can be used with the SVM classifier to robustly distinguish between the mass and non-mass
- presence in the breast."
+abstract: "BCIs, which elaborated as Brain-computer Interface that use brain responses to control the BCI paradigms. These brain responses are measured using Electroencephalographic signal along the scalp of the subjects. However, the less variability of EEG signal from the subjects make the BCI paradigms user independent. In this research, we simply analyze the user independency of SSVEP based EEG signal that makes a conclusion inter subject’s variability of BCI users. To accomplish the research goal, SSVEP based EEG signal extract from both different subjects and different stimulation conditions and a features vector is formed to compare each subject’s variability. Artificial Neural Network classifier is used to determine the deviation and regression of deviation of each features vectors. From the heatmap and classifier, it is found that the used independency of the EEG signal is less that means that less variability of EEG. That ensures the user independent BCI paradigms with high transfer rate of the bits."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Feature extraction
-- Support vector machines
-- Pipelines
-- Robustness
-- Convolutional neural networks
-- Breast cancer
-- Mammography
+- Brain-computer Interface (BCI)
+- BCI paradigms
+- Electroencephalographic (EEG)
+- Steady-state Visual Evoked Potential (SSVEP)
+- Artificial Neural Network (ANN)
+- EEG classifier
 #featured: true
-url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
+# url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

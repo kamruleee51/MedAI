@@ -77,6 +77,3 @@ Later, the thesis was published in the Journal of [Medical Image Analysis](https
 
 
 {{< icon name="download" pack="fas" >}} Download Mr. Hasan's {{< staticref "uploads/CV_of_Md__Kamrul_Hasan.pdf" "newtab" >}}resume{{< /staticref >}}.
-
-design:
-  columns: '1'

@@ -34,8 +34,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
-  columns: '5'
+  view: 5
+  columns: '1'
 ---
 
 {{% callout note %}}

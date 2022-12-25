@@ -20,5 +20,5 @@ title: Biography
 author: admin
 
 design:
-  columns: '1'
+  columns: '2'
 ---

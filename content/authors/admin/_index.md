@@ -1,6 +1,6 @@
 ---
 title: Md Kamrul Hasan
-role: Research Postgraduate (PhD) in Bioengineering & Assistant Professor (on Leave) in Electrical and Electronic Engineering at KUET
+role: Research Postgraduate (PhD) in Bioengineering at ICL & Assistant Professor (on Leave) in Electrical and Electronic Engineering at KUET
 bio: My research interests include Artificial Intelligence, Deep Learning, Physics-informed Neural Networks, Medical Image Computing, Computer Vision, Data Science, AR in Surgical Robotics, Biomedical Signal Processing
 interests:
   - Artificial Intelligence
@@ -57,7 +57,7 @@ email: "k.hasan22@imperial.ac.uk"
 superuser: true
 highlight_name: true
 ---
-Md Kamrul Hasan is a **PhD candidate** in the [Bioengineering](https://www.imperial.ac.uk/bioengineering/) department at [Imperial College London](https://www.imperial.ac.uk/), where he explores the deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
+Md Kamrul Hasan is a **PhD candidate** in the [Bioengineering](https://www.imperial.ac.uk/bioengineering/) department at [Imperial College London (ICL)](https://www.imperial.ac.uk/), where he explores the deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
 He is an Assistant Professor (on Leave) in Electrical and Electronic Engineering ([EEE](https://www.kuet.ac.bd/department/EEE/)) at Khulna University of Engineering & Technology ([KUET](https://kuet.ac.bd/)). 
 Mr. Hasan's research interest primarily concentrates on *developing automated AI-based systems for medical appliances.*
 

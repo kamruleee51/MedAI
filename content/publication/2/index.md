@@ -30,7 +30,7 @@ tags:
 - Computer-aided diagnosis
 - Melanoma detection
 - Deep learning
-- Fully convolutional network (FCN8s)
+- Fully convolutional network
 - UNet
 - ISIC-2017
 - PH2

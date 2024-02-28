@@ -24,16 +24,16 @@ abstract: Automatic segmentation of brain Magnetic Resonance Imaging (MRI) image
 summary: ''
 
 tags:
-- Histograms
-- Image segmentation
-- Pipelines
-- Training
-- Brain modeling
-- Feature extraction
+- Magnetic resonance imaging (MRI)
+- Brain tissue segmentation
+- NeuroNet
+- Residual network (ResNet)
+- Fully convolutional network (FCN)
+- IBSR18
 #featured: true
 
 links:
-- name: Pre-print
+- name: Preprint
   url: https://arxiv.org/abs/1904.00068
 - name: Slides
   url: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ

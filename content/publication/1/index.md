@@ -6,7 +6,7 @@ date: "2019-06-02"
 doi: "10.1109/ICIEV.2019.8858515"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-07"
+publishDate: "2019-06-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ tags:
 
 links:
 - name: Pre-print
-  url: https://arxiv.org/abs/1904.00068
+  url: https://ieeexplore.ieee.org/document/8858515
 - name: Slides
   url: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8858515

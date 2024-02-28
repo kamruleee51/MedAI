@@ -27,10 +27,10 @@ summary: ''
 
 tags:
 - Skin lesion segmentation
-- Computer-aided Diagnosis
+- Computer-aided diagnosis
 - Melanoma detection
 - Deep learning
-- Fully convolutional network 
+- Fully convolutional network (FCN8s)
 - UNet
 - ISIC-2017
 - PH2

@@ -42,7 +42,7 @@ url_video: https://www.youtube.com/watch?v=m3u58LN9lns&loop=0
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Proposed DSNet's Results'
+  caption: 'Qualitative results of DSNet'
   focal_point: ""
   preview_only: false
 

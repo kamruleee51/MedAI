@@ -1,6 +1,6 @@
 ---
 title: Md Kamrul Hasan
-role: Research Postgraduate (PhD) in Bioengineering at ICL & Assistant Professor (on Leave) in Electrical and Electronic Engineering at KUET
+role: Research postgraduate in Medical Image Computing using AI at Bioengineering department at ICL and Faculty member (on Leave) in Electrical and Electronic Engineering at KUET
 bio: My research interests include Artificial Intelligence, Deep Learning, Physics-informed Neural Networks, Medical Image Computing, Computer Vision, Data Science, AR in Surgical Robotics, Biomedical Signal Processing
 interests:
   - Artificial Intelligence

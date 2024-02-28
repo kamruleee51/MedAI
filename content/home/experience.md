@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:	
-  - title: Research Postgraduate (PhD)
+  - title: Research Postgraduate
     company: Imperial College London
     company_url: 'https://www.imperial.ac.uk/bioengineering/'
     location: London, United Kingdom 

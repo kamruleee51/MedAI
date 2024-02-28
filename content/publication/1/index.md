@@ -24,11 +24,11 @@ abstract: Automatic segmentation of brain Magnetic Resonance Imaging (MRI) image
 summary: ''
 
 tags:
-- Magnetic resonance imaging (MRI)
+- Magnetic resonance imaging
 - Brain tissue segmentation
 - NeuroNet
-- Residual network (ResNet)
-- Fully convolutional network (FCN)
+- ResNet
+- Fully convolutional network
 - IBSR18
 #featured: true
 

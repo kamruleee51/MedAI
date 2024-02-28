@@ -1,6 +1,6 @@
 ---
 title: Md Kamrul Hasan
-role: Research postgraduate in Medical Image Computing using AI at Bioengineering department at ICL and Faculty member (on Leave) in Electrical and Electronic Engineering at KUET
+role: Research postgraduate in Medical Image Computing using AI at ICL and Faculty member (on Leave) in Electrical and Electronic Engineering at KUET
 bio: My research interests include Artificial Intelligence, Deep Learning, Physics-informed Neural Networks, Medical Image Computing, Computer Vision, Data Science, AR in Surgical Robotics, Biomedical Signal Processing
 interests:
   - Artificial Intelligence
@@ -32,9 +32,9 @@ social:
     icon_pack: fab
     link: https://www.youtube.com/channel/UCP5TWOoSUg8eO1niU2iniZw
 organizations:
-  - name: Imperial College London
+  - name: Imperial College London (ICL)
     url: https://www.imperial.ac.uk/
-  - name: Khulna University of Engineering & Technology
+  - name: Khulna University of Engineering & Technology (KUET)
     url: https://kuet.ac.bd/
 
 #Education to show in About widget

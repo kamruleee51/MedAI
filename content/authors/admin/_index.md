@@ -40,7 +40,7 @@ organizations:
 #Education to show in About widget
 education:
   courses:
-  - course: PhD in Bioengineering (Medical Imaging with Physics-informed Neural Networks)
+  - course: PhD in Medical Image Computing using AI
     institution: Imperial College London (ICL), United Kingdom
     year: 2026 (Expected)
   - course: Erasmus Mundus Joint Master Degree Medical Imaging and Applications (MAIA) 

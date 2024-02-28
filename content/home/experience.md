@@ -29,7 +29,7 @@ experience:
     date_start: '2022-10-03'
     date_end: ''
     description: |2-
-      Deployment of AI agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
+      Deployment of MKH agents like Physics-informed Neural Networks (PINNs) in the field of medical image computing. 
 
         	
   - title: Assistant Professor

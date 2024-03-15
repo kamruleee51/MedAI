@@ -39,7 +39,7 @@ url_code: https://github.com/kamruleee51/Diabetes-Prediction-Using-ML-Classifier
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Proposed Ensembling of Different Machine Learning Classifiers'
+  caption: 'Proposed ensembling of different machine learning classifiers'
   focal_point: ""
   preview_only: false
 

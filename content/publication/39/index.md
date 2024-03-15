@@ -3,7 +3,7 @@ title: "Multi-scale, data-driven and anatomically constrained deep learning imag
 authors:
 - "Md. Kamrul Hasan, Haobo Zhu, Guang Yang, Choon Hwai Yap"
 #date: "2023-09-2"
-doi: "https://arxiv.org/abs/2309.00831"
+url_pdf: "https://arxiv.org/abs/2309.00831"
 
 url_video: https://www.youtube.com/watch?v=eGUU-rqWznY&t=4s&loop=0
  

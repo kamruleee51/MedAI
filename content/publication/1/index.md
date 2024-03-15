@@ -22,6 +22,7 @@ publication: In *2019 Joint 8th International Conference on Informatics, Electro
 publication_short: 2019 Joint 8th International Conference on Informatics, Electronics & Vision (ICIEV) and 2019 3rd International Conference on Imaging, Vision & Pattern Recognition (icIVPR), Spokane, WA, USA, 2019, pp. 223-227
 
 abstract: Automatic segmentation of brain magnetic resonance imaging (MRI) images is one of the vital steps for quantitative analysis of the brain for further inspection. In this paper, NeuroNet has been adopted to segment the brain tissues using a ResNet in the encoder and a fully convolution network (FCN) in the decoder. Various hyper-parameters have been tuned to achieve the best performance, while network parameters (kernel and bias) were initialized using the NeuroNet pre-trained model. Different pre-processing pipelines have also been introduced to get a robust trained model. The model has been trained and tested on the IBSR18 data set. The outcome of the research indicates that for the IBSR18 data set, pre-processing and proper tuning of hyper-parameters for the NeuroNet model have improved DICE for brain tissue segmentation.
+
 # Summary. An optional shortened abstract.
 summary: ''
 

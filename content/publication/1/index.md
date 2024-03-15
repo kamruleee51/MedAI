@@ -1,9 +1,9 @@
 ---
-title: Brain Tissue Segmentation Using NeuroNet With Different Pre-processing Techniques
+title: Brain tissue segmentation using NeuroNet with different pre-processing techniques
 authors:
 - Fakrul Islam Tushar
 - Basel Alyafi
-- "**Md. Kamrul Hasan**"
+- **Md. Kamrul Hasan**
 - Lavsen Dahal
 date: "2019-06-02"
 doi: "10.1109/ICIEV.2019.8858515"
@@ -33,13 +33,11 @@ tags:
 - ResNet
 - Fully convolutional network
 - IBSR18
+- Simple-ITK
+- Image registration
 #featured: true
 
 links:
-- name: Preprint
-  url: https://arxiv.org/abs/1904.00068
-- name: Slides
-  url: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8858515
 url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
 
@@ -48,7 +46,7 @@ url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learn
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Pipeline'
+  caption: 'Brain tissue segmentation pipeline'
   focal_point: ""
   preview_only: false
 

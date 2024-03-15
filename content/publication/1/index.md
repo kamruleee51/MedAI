@@ -1,10 +1,7 @@
 ---
 title: Brain tissue segmentation using NeuroNet with different pre-processing techniques
 authors:
-- Fakrul Islam Tushar
-- Basel Alyafi
-- Md. Kamrul Hasan
-- Lavsen Dahal
+- "Fakrul Islam Tushar, Basel Alyafi, Md. Kamrul Hasan, Lavsen Dahal"
 date: "2019-06-02"
 doi: "10.1109/ICIEV.2019.8858515"
 
@@ -35,8 +32,6 @@ tags:
 - IBSR18
 - Simple-ITK
 - Image registration
-#featured: true
-
 url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
 
 

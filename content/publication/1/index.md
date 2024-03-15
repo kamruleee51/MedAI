@@ -37,8 +37,6 @@ tags:
 - Image registration
 #featured: true
 
-links:
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8858515
 url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
 
 

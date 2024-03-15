@@ -1,7 +1,10 @@
 ---
 title: Brain Tissue Segmentation Using NeuroNet With Different Pre-processing Techniques
 authors:
-- Fakrul Islam Tushar, Basel Alyafi, "**Md. Kamrul Hasan**", Lavsen Dahal
+- Fakrul Islam Tushar
+- Basel Alyafi
+- "**Md. Kamrul Hasan**"
+- Lavsen Dahal
 date: "2019-06-02"
 doi: "10.1109/ICIEV.2019.8858515"
 

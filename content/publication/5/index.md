@@ -34,7 +34,7 @@ tags:
 - ISIC-2017
 - ISIC-2016
 featured: true
-url_video: "https://www.youtube.com/watch?v=nlfr_NCPy4U&t=76s&loop=0"
+url_video: "https://www.youtube.com/watch?v=6Rs-jifzlwM&loop=0"
 
 
 # Featured image

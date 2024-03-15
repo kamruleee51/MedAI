@@ -32,7 +32,7 @@ tags:
 - Multilayer perceptron
 - Missing value imputation
 - Outlier rejection
-featured: true
+featured: false
 url_code: https://github.com/kamruleee51/Diabetes-Prediction-Using-ML-Classifiers
 
  

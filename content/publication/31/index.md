@@ -1,14 +1,14 @@
 ---
-title: "Performance Analysis of SSVEP Based Wireless Brain Computer Interface for Wet and Dry Electrode"
+title: "Design and implementation of low cost ECG monitoring system for the patient using smartphone"
 authors:
-- "Md. Kamrul Hasan, Chayan Mondal, Mohiuddin Mahmud, Nahid Al , Ahmad"
+- "Md Asif Ahamed, Md Kamrul Hasan, Md Shahabul Alam"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/ICAEE.2015.7506797"
+doi: "https://doi.org/10.1109/CEEE.2015.7428272"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-12-18"
+publishDate: "2015-11-04"
 
 
 # Publication type.
@@ -19,22 +19,22 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE"
-publication_short: "3rd International Conference on Advances in Electrical Engineering (ICAEE)"
+publication_short: "2015 International Conference on Electrical & Electronic Engineering (ICEEE)"
 
 
-abstract: "A Brain-computer Interface (BCI) is a communication pathway to provide ease to the users for interacting with the outside surroundings after translating brain signals into machine commands. The modern Steady-state Visual Evoked Potential (SSVEP) based Electroencephalographic (EEG) signals has become the most sophisticated methodology for a BCI paradigms. So, the perfection of SSVEP signal make the perfection of the BCI paradigm. The use of gel based wet electrode for the extraction of EEG signal is too much noisy and unpredictable for long time measurement which degrades the quality of SSVEP signal in a consequence degrades the performance of modern BCI paradigm. In our research, we are trying to solve this degradation of the quality of SSVEP signal. To accomplish this goal, a typical wireless BCIs using dry electrode is proposed for long term application without sacrificing Information Transfer Rate (ITR), Signal to Noise Ratio (SNR). After extracting SSVEP signal using dry electrode, Analog to Digital Conversion (ADC) is proceeded for the wireless transmission for remote BCI paradigms. Finally, after receiving this signal any BCI paradigms can be operated with high degree of accuracy."
+abstract: "Electrocardiographic (ECG) equipment plays a vital role for diagnosis of cardiac disease. However, the cost of this equipment is huge and the operation is too much complex which cannot offer better services to a large population in developing countries like Bangladesh. In this paper, we have designed and implemented a low cost portable single channel ECG monitoring system using smartphone having android operating system and Arduino. This manuscript also demonstrates the use of Android smartphone for processing and visualizing ECG signal. Our designed system is battery powered and it gives wireless feature. This system can also be used with desktop computer or laptop having either Windows, Linux or Mac OS. For this purpose a software is developed. An Android application is developed using Processing IDE, which requires Android version 2.3 and API level of 10. This application does not need USB host API. For this reason, around 98% Android smartphone in the market can be used for this system."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
+- Electrocardiography
+- Band-pass filters
 - Electrodes
-- Electroencephalography
-- Wireless communication
-- Skin
-- Brain-computer interfaces
-- Wireless sensor networks
-- Brain
+- Portable computers
+- Androids
+- Humanoid robots
+- Software
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

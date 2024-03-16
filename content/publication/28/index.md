@@ -1,36 +1,40 @@
 ---
-title: "Effective Electrodes Position and Features Selection for EEG Based Epilepsy Detection"
+title: "Drowsiness Detection for the Perfection of Brain Computer Interface Using Viola-jones Algorithm"
 authors:
-- "Md. Kamrul Hasan"
+- "Md. Kamrul Hasan, S. M. Hasnat Ullah, Shantanu Sen Gupta, Mohiuddin Ahmad"
 #date: "2020-04-2"
-# doi: "http://hdl.handle.net/20.500.12228/218"
+doi: "https://doi.org/10.1109/CEEICT.2016.7873106"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-08-01"
+publishDate: "2016-09-23"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh."
-publication_short: "Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh."
+publication: "IEEE"
+publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
 
 
-abstract: "Electroencephalogram (EEG) signal is a representative signal that contains information about the brain activity, which is the key identifier and used for the detection of epilepsy since epileptic seizures are caused by a disturbance in the electrophysiological activity of the brain. The prediction of epileptic seizure from the EEG signal usually requires a detailed and experienced analysis of EEG data as well as proper collections of epileptic EEG signal from the effective positions of the scalp. In this thesis, we have introduced a statistical analysis of EEG signal with the optimized electrodes and features that are capable of recognizing epileptic seizure with a high degree of accuracy (96.1 %) and helps to provide automatic detection of epileptic seizure for different ages of epileptic persons. To accomplish the target research, we extract various epileptic features namely Approximate Entropy (ApEn), Kolmogorov–Sinai Entropy (KSE), Spectral Entropy (SE), Standard Deviation (SD), Standard Error (SE), Modified Mean Absolute Value (MMAV), Roll-off (R), and Zero Crossing (ZC) from the epileptic EEG signal. The k-nearest neighbor (k-NN) algorithm is used for the classification of epilepsy then regression analysis is used for the prediction of the epilepsy level at different ages of the patients. Using the statistical parameters and regression analysis, a prototype mathematical model is proposed which helps to find the epileptic randomness with respect to age of different subjects. The accuracy of this prototype equation depends on proper analysis of the dynamic information from the epileptic EEG signal."
+abstract: "Security and reconnaissance applications are prominent BCI paradigms which are less complex and sophisticated if there is no contamination in Electroencephalogram (EEG) signal. The better the quality of EEG signal ensures the better the performance (better Information Transfer Rate (ITR), high Signal to Noise Ratio (SNR), high Bandwidth (BW), and so on) of BCI paradigms. Drowsiness is one of the major contamination in EEG signal that hampers the operation of modern BCI paradigms. In this research, a non-intrusive machine vision based concept is used to determine the drowsiness from the patient which ensure the drowsy free EEG signal. In this proposed system, a camera which placed in a way that it records subjects (BCI Users) eye movement in every time as well as it can monitor the open and close state of eye. Viola-jones Algorithm is applicable for the detection of face as well as state of eye (Open, closed or semi-open) which is the key concern for the detection of drowsiness from the patient's EEG signal. After detecting this drowsiness, decision can be easily made for the perfect operation of BCI."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Electroencephalogram
-- Epilepsy Detection
-- Electrodes   
+- Electroencephalography
+- Band-pass filters
+- Face
+- Contamination
+- Cameras
+- Monitoring
+- Feature extraction
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

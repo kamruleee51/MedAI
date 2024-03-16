@@ -1,14 +1,14 @@
 ---
-title: "Effect of Diverse Stimulations of Brain on EEG Signal for SSVEP Based Brain Computer Interface"
+title: "Design and simulation of cost effective wireless EEG acquisition system for patient monitoring"
 authors:
-- "Md. Kamrul Hasan, Chayan Mondal, Nahid Al Mahmud, and Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Rushdi Zahid Rusho, Toufiq Md. Hossain, Tarun Kanti Ghosh, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/ICEEICT.2015.7307454"
+doi: "https://doi.org/10.1109/ICIEV.2014.6850797"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-05-01"
+publishDate: "2014-05-23"
 
 
 # Publication type.
@@ -19,19 +19,19 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE"
-publication_short: "Proc. of 2nd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2015)"
+publication_short: "International Conference on Informatics, Electronics & Vision (ICIEV)"
 
 
-abstract: "Steady-state visual evoked potential (SSVEP) is used for Brain-Computer Interface that requires little training for user, offers high information transfer rate and higher accuracy in living environments. To elicit an SSVEP, a Repetitive Visual Stimulus (RVS) of rectangular shape has been proposed to the subjects in different ways. RVS is rendered on a computer screen by flashing graphical patterns. The properties of SSVEP depend on the rendering device and frequency, size, shape and color of the stimuli. But, literatures on SSVEP-based BCI are seldom provided with reasons for usefulness of rendering devices or RVS properties. The aim of this research is to study the effect of all these stimulation properties on performance of SSVEP while elicited by a rectangular shape. A correlation matrix is made to help selection of any suitable SSVEP stimulator. The percentage change in energy and power from one kind of stimulation to another is also shown in this paper. Performance achieved in different cases has been compared with each other for apposite understanding. This will help a researcher to select proper stimulation types to elicit SSVEP."
+abstract: "The motive of this paper is to design a low cost wireless EEG acquisition system for easily monitoring of the patient. Using local effort and low price employment, this system can be built which includes data acquisition, data transmission, and receiving unit which contains the patient monitoring site. The developed wireless EEG system is also suitable for the applications such as remote control of devices, rescue, etc. Realtime decoding and mobile EEG signal processing with high information transfer rate (ITR) are incorporated in the system. The specialty of the proposed research is inclusion of forth order Butterworth low pass filter which has better stability and sharper cut off with reasonable cost. Using this techniques hardware implementation is possible and GSM system can be added with hardware for long distance wireless transmission of EEG signal. The system performance is simulated by some simulation software. The proposed system is reliable, and cost is about 950 BDT or 12 USD which is reasonable."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Computers
-- Electroencephalography
-- Software
-- Color
+- EEG acquisition system
+- Wireless transmission
+- Wearable signal Monitor system
+- PROTEUS & PSPICE simulator
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

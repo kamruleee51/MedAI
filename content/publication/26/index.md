@@ -1,38 +1,36 @@
 ---
-title: "Prediction of Epileptic Seizure by Analysing Time Series EEG Signal Using kNN Classifier"
+title: "Effective Electrodes Position and Features Selection for EEG Based Epilepsy Detection"
 authors:
-- "Md. Kamrul Hasan, Md. Asif Ahamed, Mohiuddin Ahmad, M. A and Rashid"
+- "Md. Kamrul Hasan"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1155/2017/6848014"
+# doi: "http://hdl.handle.net/20.500.12228/218"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-08-13"
+publishDate: "2017-08-01"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Hindawi"
-publication_short: "Applied Bionics and Biomechanics"
+publication: "Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh."
+publication_short: "Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh."
 
 
-abstract: "Electroencephalographic signal is a representative signal that contains information about brain activity, which is used for the detection of epilepsy since epileptic seizures are caused by a disturbance in the electrophysiological activity of the brain. The prediction of epileptic seizure usually requires a detailed and experienced analysis of EEG. In this paper, we have introduced a statistical analysis of EEG signal that is capable of recognizing epileptic seizure with a high degree of accuracy and helps to provide automatic detection of epileptic seizure for different ages of epilepsy. To accomplish the target research, we extract various epileptic features namely approximate entropy (ApEn), standard deviation (SD), standard error (SE), modified mean absolute value (MMAV), roll-off (), and zero crossing (ZC) from the epileptic signal. The -nearest neighbours (-NN) algorithm is used for the classification of epilepsy then regression analysis is used for the prediction of the epilepsy level at different ages of the patients. Using the statistical parameters and regression analysis, a prototype mathematical model is proposed which helps to find the epileptic randomness with respect to the age of different subjects. The accuracy of this prototype equation depends on proper analysis of the dynamic information from the epileptic EEG."
+abstract: "Electroencephalogram (EEG) signal is a representative signal that contains information about the brain activity, which is the key identifier and used for the detection of epilepsy since epileptic seizures are caused by a disturbance in the electrophysiological activity of the brain. The prediction of epileptic seizure from the EEG signal usually requires a detailed and experienced analysis of EEG data as well as proper collections of epileptic EEG signal from the effective positions of the scalp. In this thesis, we have introduced a statistical analysis of EEG signal with the optimized electrodes and features that are capable of recognizing epileptic seizure with a high degree of accuracy (96.1 %) and helps to provide automatic detection of epileptic seizure for different ages of epileptic persons. To accomplish the target research, we extract various epileptic features namely Approximate Entropy (ApEn), Kolmogorov–Sinai Entropy (KSE), Spectral Entropy (SE), Standard Deviation (SD), Standard Error (SE), Modified Mean Absolute Value (MMAV), Roll-off (R), and Zero Crossing (ZC) from the epileptic EEG signal. The k-nearest neighbor (k-NN) algorithm is used for the classification of epilepsy then regression analysis is used for the prediction of the epilepsy level at different ages of the patients. Using the statistical parameters and regression analysis, a prototype mathematical model is proposed which helps to find the epileptic randomness with respect to age of different subjects. The accuracy of this prototype equation depends on proper analysis of the dynamic information from the epileptic EEG signal."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Data preprocessing 
-- Machine learning 
-- Feature engineering 
-- Data Science 
-- Biomedical signal processing 
+- Electroencephalogram
+- Epilepsy Detection
+- Electrodes   
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

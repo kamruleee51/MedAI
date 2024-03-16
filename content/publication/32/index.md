@@ -1,14 +1,14 @@
 ---
-title: "Alpha Band Dependency of EEG Signal on Different Stimulation of Brain for Human Computer Interaction"
+title: "Prediction of disease level using multilayer perceptron of Artificial Neural Network for patient monitoring"
 authors:
-- "Md. Kamrul Hasan, Nahid Al Mahmud, Md. Shazzad Hossain, and Mohiuddin Ahmad"
+- "Md Osman Goni Nayeem, Maung Ning Wan, Md Kamrul Hasan"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/EICT.2015.7391937"
+# doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-12-12"
+publishDate: "2015-09-01"
 
 
 # Publication type.
@@ -18,23 +18,21 @@ publishDate: "2015-12-12"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE"
-publication_short: "2nd International Conference on Electrical Information and Communication Technology (EICT), IEEE, KUET, Khulna-9203, Bangladesh"
+publication: "IInternational Journal of Soft Computing and Engineering (IJSCE)"
+publication_short: "International Journal of Soft Computing and Engineering (IJSCE)"
 
 
-abstract: "Brain-computer Interfaces (BCIs) are the communicating bridges between the human brain and a computer which may be implemented on the basis of Steady-state Visual Evoked Potentials (SSVEPs). It is mandatory to improve the stimulation for the betterment of the accuracy of modern BCIs, higher Information Transfer Rate (ITR), desired bandwidth (BW), and Signal to Noise Ratio (SNR) of BCIs. The performance of stimulator depends on many factors such as size and shape of stimulator, frequency of stimulation, luminance, color, and subject attention. Information Transfer Rate (ITR) varies with the change of frequency and size of the visual stimuli. In our research, a Circular Repetitive Visual Stimulator (CRVS) of different diameters (2″, 2.5″ and 3″), colors (RGB), frequencies (10, 15 and 20 Hz) was used. The raw EEG signal is processed for finding the effect of diverse stimulation on alpha band of EEG signal at diverse condition. From the analysis it is found that, when the size of the stimulator changes from 2″ to 2.5″, resultant increase in alpha wave is 58.18%. But for a further increase in size from 2.5″ to 3″, there is a resultant decrease in alpha wave of 45%. Similar result is found for the changes in frequencies and colors."
+abstract: "ANN has been proved as a powerful discriminating classifier for tasks in medical diagnosis for early detection of diseases. In our research, ANN has been used for predicting three different diseases (heart disease, liver disorder, lung cancer). Feed-forward back propagation neural network algorithm with Multi-Layer Perceptron is used as a classifier to distinguish between infected or non-infected person. The results of applying the ANNs methodology to diagnosis of these disease based upon selected symptoms show abilities of the network to learn the patterns corresponding to symptoms of the person. In our proposed work, Multi-Layer Perceptron with having 2 hidden layer is used to predict medical diseases. Here in case of liver disorder prediction patients are classified into four categories: normal condition, abnormal condition (initial), abnormal condition and severe condition. This neural network model shows good performance in predicting disease with less error."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Electroencephalography
-- Visualization
-- Color
-- Electric potential
-- Steady-state
-- Feature extraction
-- Signal to noise ratio
+- Artificial Neural Network (ANN)
+- Multilayer Perceptron
+- Heart Diseases
+- Liver Disorder
+- Lung Cancer
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

@@ -1,39 +1,38 @@
 ---
-title: "User Independency of SSVEP Based Brain Computer Interface Using ANN Classifier: Statistical Approach"
+title: "Design and Simulation of Maximum Power Point Tracking of Photovoltaic System Using ANN"
 authors:
-- "Md. Kamrul Hasan,  Md. Samiul H. Sunny, Shifat Hossain, Mohiuddin Ahmad"
+- "Md. Samiul Haque Sunny, Abu Naim Rakib Ahmed, Md. Kamrul Hasan"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1007/978-3-319-60663-7_6"
+doi: "https://doi.org/10.1109/CEEICT.2016.7873105"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-06-20"
+publishDate: "2016-09-23"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Springer, Cham"
-publication_short: "International Conference on Computing and Information Technology"
+publication: "IEEE"
+publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
 
 
-abstract: "BCIs, which elaborated as Brain-computer Interface that use brain responses to control the BCI paradigms. These brain responses are measured using Electroencephalographic signal along the scalp of the subjects. However, the less variability of EEG signal from the subjects make the BCI paradigms user independent. In this research, we simply analyze the user independency of SSVEP based EEG signal that makes a conclusion inter subject’s variability of BCI users. To accomplish the research goal, SSVEP based EEG signal extract from both different subjects and different stimulation conditions and a features vector is formed to compare each subject’s variability. Artificial Neural Network classifier is used to determine the deviation and regression of deviation of each features vectors. From the heatmap and classifier, it is found that the used independency of the EEG signal is less that means that less variability of EEG. That ensures the user independent BCI paradigms with high transfer rate of the bits."
+abstract: "Now a days in power generation, renewable energy plays a vital role in which photovoltaic energy generation placed top in the list of the renewable energy because of the easy process of generation. The photovoltaic energy depends on the solar irradiance and the temperature. To get the maximum power from the PV panel, the idea of Maximum Power Point Tracking (MPPT) is arrived. Too many algorithms and controllers have been considered in the past to track the maximum power and to reduce the tracking time and also to improve the efficiency of PV panel. In this paper, Artificial Neural Network (ANN) techniques is proposed to track the maximum power. The proposed method has been evaluated by simulation in MATLAB environment. The simulation results show the effectiveness of the proposed technique and its ability to track the maximum power of the PV panel."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Brain-computer Interface (BCI)
-- BCI paradigms
-- Electroencephalographic (EEG)
-- Steady-state Visual Evoked Potential (SSVEP)
-- Artificial Neural Network (ANN)
-- EEG classifier
+- Training
+- Artificial neural networks
+- Mathematical model
+- Solar panels
+- Maximum power point trackers
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

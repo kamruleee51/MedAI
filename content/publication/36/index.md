@@ -1,51 +1,40 @@
 ---
-title: "A SSVEP Based EEG Signal Analysis to Discriminate the Effects of Music Levels on Executional Attention"
+title: "A direct noninvasive brain interface with computer based on steady-state visual-evoked potential (SSVEP) with high transfer rates"
 authors:
-- "Md. Kamrul Hasan, Md. Shazzad Hossain, Tarun Kanti Ghosh, Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Rushdi Zahid Rusho, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.11648/j.bio.s.2015030301.15"
+doi: "https://doi.org/10.1109/ICAEE.2013.6750360"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-05-01"
+publishDate: "2013-12-19"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Science Publishing Group"
-publication_short: "American Journal of Bioscience and Bioengineering"
+publication: "IEEE"
+publication_short: "International Conference on Advances in Electrical Engineering (ICAEE)"
 
 
-abstract: " In this work the electrical activity in brain or known as electroencephalogram (EEG) signal is being analyzed to
-study the various effects of sound on the human brain activity. The effect is in the form of variation in either frequency or in
-the power of different EEG bands. A biological EEG signal stimulated by Music listening reflects the state of mind, impacts
-the analytical brain and the subjective-artistic brain. A two channel EEG acquisition unit is being used to extract brain signal
-with high transfer rate as well as good SNR. This paper focused on three types of brain waves which are theta (4-7 Hz), alpha
-(8-12 Hz) and beta wave (13-30 Hz). The analysis is carried out using Power Spectral density (PSD), Correlation co-efficient
-analysis. The outcome of this research depicted that high amplitude Alpha and low amplitude Beta wave and low amplitude
-Alpha and high amplitude Beta wave is associated with melody and rock music respectively meanwhile theta has no effect.
-High power of alpha waves and low power of beta waves that obtained during low levels of sound (Melody) indicate that
-subjects were in relaxed state. When subjects exposed to high level of sound (Rock), beta waves power increased indicating
-subjects in disturbed state. Meanwhile, the decrease of alpha wave magnitude showed that subjects in tense. Thus the subject’s
-executional attention level is determined by analyzing the different components of EEG signal."
+abstract: "A Brain Computer Interface (BCI) provides a new communication channel between human brain and the computer. This paper presents a direct noninvasive brain-computer interface (BCI) that can help users to select any command in the graphical user interface (GUI) such as appliance control, cursor control, typing, making phone call, etc. The system is based on the steady-state visual evoked potential (SSVEP) which use three fixed positioned electrodes for reducing user variation on system performance. The frequency-coded SSVEP is used with different stimuli procedure such as effect of color and angular position of the screen which make the system user independent. The average transfer rate over all subjects is found up to 66.81 bits/min. The attractive features of the system are noninvasive signal recording, little training required for user, higher information transfer rate (HITR) and higher accuracy in living environments."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Electroencephalogram (EEG)
-- Steady-State Visual Evoked Potential (SSVEP)
-- Non-Invasive Signal Recording
-- Power Spectral Density (PSD)
-- Correlation Coefficient
-- Brain Wave
-- Eeg Bands
+- Electroencephalography
+- Visualization
+- Electric potential
+- Electrodes
+- Color
+- Training
+- Accuracy
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

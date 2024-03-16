@@ -1,14 +1,14 @@
 ---
-title: "Drowsiness Detection for the Perfection of Brain Computer Interface Using Viola-jones Algorithm"
+title: "Alpha Band Dependency of EEG Signal on Different Stimulation of Brain for Human Computer Interaction"
 authors:
-- "Md. Kamrul Hasan, S. M. Hasnat Ullah, Shantanu Sen Gupta, Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Nahid Al Mahmud, Md. Shazzad Hossain, and Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/CEEICT.2016.7873106"
+doi: "https://doi.org/10.1109/EICT.2015.7391937"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-09-23"
+publishDate: "2015-12-12"
 
 
 # Publication type.
@@ -19,22 +19,22 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE"
-publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
+publication_short: "2nd International Conference on Electrical Information and Communication Technology (EICT), IEEE, KUET, Khulna-9203, Bangladesh"
 
 
-abstract: "Security and reconnaissance applications are prominent BCI paradigms which are less complex and sophisticated if there is no contamination in Electroencephalogram (EEG) signal. The better the quality of EEG signal ensures the better the performance (better Information Transfer Rate (ITR), high Signal to Noise Ratio (SNR), high Bandwidth (BW), and so on) of BCI paradigms. Drowsiness is one of the major contamination in EEG signal that hampers the operation of modern BCI paradigms. In this research, a non-intrusive machine vision based concept is used to determine the drowsiness from the patient which ensure the drowsy free EEG signal. In this proposed system, a camera which placed in a way that it records subjects (BCI Users) eye movement in every time as well as it can monitor the open and close state of eye. Viola-jones Algorithm is applicable for the detection of face as well as state of eye (Open, closed or semi-open) which is the key concern for the detection of drowsiness from the patient's EEG signal. After detecting this drowsiness, decision can be easily made for the perfect operation of BCI."
+abstract: "Brain-computer Interfaces (BCIs) are the communicating bridges between the human brain and a computer which may be implemented on the basis of Steady-state Visual Evoked Potentials (SSVEPs). It is mandatory to improve the stimulation for the betterment of the accuracy of modern BCIs, higher Information Transfer Rate (ITR), desired bandwidth (BW), and Signal to Noise Ratio (SNR) of BCIs. The performance of stimulator depends on many factors such as size and shape of stimulator, frequency of stimulation, luminance, color, and subject attention. Information Transfer Rate (ITR) varies with the change of frequency and size of the visual stimuli. In our research, a Circular Repetitive Visual Stimulator (CRVS) of different diameters (2″, 2.5″ and 3″), colors (RGB), frequencies (10, 15 and 20 Hz) was used. The raw EEG signal is processed for finding the effect of diverse stimulation on alpha band of EEG signal at diverse condition. From the analysis it is found that, when the size of the stimulator changes from 2″ to 2.5″, resultant increase in alpha wave is 58.18%. But for a further increase in size from 2.5″ to 3″, there is a resultant decrease in alpha wave of 45%. Similar result is found for the changes in frequencies and colors."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
 - Electroencephalography
-- Band-pass filters
-- Face
-- Contamination
-- Cameras
-- Monitoring
+- Visualization
+- Color
+- Electric potential
+- Steady-state
 - Feature extraction
+- Signal to noise ratio
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

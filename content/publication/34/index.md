@@ -1,38 +1,51 @@
 ---
-title: "Prediction of disease level using multilayer perceptron of Artificial Neural Network for patient monitoring"
+title: "A SSVEP Based EEG Signal Analysis to Discriminate the Effects of Music Levels on Executional Attention"
 authors:
-- "Md Osman Goni Nayeem, Maung Ning Wan, Md Kamrul Hasan"
+- "Md. Kamrul Hasan, Md. Shazzad Hossain, Tarun Kanti Ghosh, Mohiuddin Ahmad"
 #date: "2020-04-2"
-# doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
+doi: "https://doi.org/10.11648/j.bio.s.2015030301.15"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-09-01"
+publishDate: "2015-05-01"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IInternational Journal of Soft Computing and Engineering (IJSCE)"
-publication_short: "International Journal of Soft Computing and Engineering (IJSCE)"
+publication: "Science Publishing Group"
+publication_short: "American Journal of Bioscience and Bioengineering"
 
 
-abstract: "ANN has been proved as a powerful discriminating classifier for tasks in medical diagnosis for early detection of diseases. In our research, ANN has been used for predicting three different diseases (heart disease, liver disorder, lung cancer). Feed-forward back propagation neural network algorithm with Multi-Layer Perceptron is used as a classifier to distinguish between infected or non-infected person. The results of applying the ANNs methodology to diagnosis of these disease based upon selected symptoms show abilities of the network to learn the patterns corresponding to symptoms of the person. In our proposed work, Multi-Layer Perceptron with having 2 hidden layer is used to predict medical diseases. Here in case of liver disorder prediction patients are classified into four categories: normal condition, abnormal condition (initial), abnormal condition and severe condition. This neural network model shows good performance in predicting disease with less error."
+abstract: " In this work the electrical activity in brain or known as electroencephalogram (EEG) signal is being analyzed to
+study the various effects of sound on the human brain activity. The effect is in the form of variation in either frequency or in
+the power of different EEG bands. A biological EEG signal stimulated by Music listening reflects the state of mind, impacts
+the analytical brain and the subjective-artistic brain. A two channel EEG acquisition unit is being used to extract brain signal
+with high transfer rate as well as good SNR. This paper focused on three types of brain waves which are theta (4-7 Hz), alpha
+(8-12 Hz) and beta wave (13-30 Hz). The analysis is carried out using Power Spectral density (PSD), Correlation co-efficient
+analysis. The outcome of this research depicted that high amplitude Alpha and low amplitude Beta wave and low amplitude
+Alpha and high amplitude Beta wave is associated with melody and rock music respectively meanwhile theta has no effect.
+High power of alpha waves and low power of beta waves that obtained during low levels of sound (Melody) indicate that
+subjects were in relaxed state. When subjects exposed to high level of sound (Rock), beta waves power increased indicating
+subjects in disturbed state. Meanwhile, the decrease of alpha wave magnitude showed that subjects in tense. Thus the subject’s
+executional attention level is determined by analyzing the different components of EEG signal."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Artificial Neural Network (ANN)
-- Multilayer Perceptron
-- Heart Diseases
-- Liver Disorder
-- Lung Cancer
+- Electroencephalogram (EEG)
+- Steady-State Visual Evoked Potential (SSVEP)
+- Non-Invasive Signal Recording
+- Power Spectral Density (PSD)
+- Correlation Coefficient
+- Brain Wave
+- Eeg Bands
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

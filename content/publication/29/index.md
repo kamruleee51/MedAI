@@ -1,14 +1,14 @@
 ---
-title: "Design and Simulation of Maximum Power Point Tracking of Photovoltaic System Using ANN"
+title: "Performance Analysis of SSVEP Based Wireless Brain Computer Interface for Wet and Dry Electrode"
 authors:
-- "Md. Samiul Haque Sunny, Abu Naim Rakib Ahmed, Md. Kamrul Hasan"
+- "Md. Kamrul Hasan, Chayan Mondal, Mohiuddin Mahmud, Nahid Al , Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/CEEICT.2016.7873105"
+doi: "https://doi.org/10.1109/ICAEE.2015.7506797"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-09-23"
+publishDate: "2015-12-18"
 
 
 # Publication type.
@@ -19,20 +19,22 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE"
-publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
+publication_short: "3rd International Conference on Advances in Electrical Engineering (ICAEE)"
 
 
-abstract: "Now a days in power generation, renewable energy plays a vital role in which photovoltaic energy generation placed top in the list of the renewable energy because of the easy process of generation. The photovoltaic energy depends on the solar irradiance and the temperature. To get the maximum power from the PV panel, the idea of Maximum Power Point Tracking (MPPT) is arrived. Too many algorithms and controllers have been considered in the past to track the maximum power and to reduce the tracking time and also to improve the efficiency of PV panel. In this paper, Artificial Neural Network (ANN) techniques is proposed to track the maximum power. The proposed method has been evaluated by simulation in MATLAB environment. The simulation results show the effectiveness of the proposed technique and its ability to track the maximum power of the PV panel."
+abstract: "A Brain-computer Interface (BCI) is a communication pathway to provide ease to the users for interacting with the outside surroundings after translating brain signals into machine commands. The modern Steady-state Visual Evoked Potential (SSVEP) based Electroencephalographic (EEG) signals has become the most sophisticated methodology for a BCI paradigms. So, the perfection of SSVEP signal make the perfection of the BCI paradigm. The use of gel based wet electrode for the extraction of EEG signal is too much noisy and unpredictable for long time measurement which degrades the quality of SSVEP signal in a consequence degrades the performance of modern BCI paradigm. In our research, we are trying to solve this degradation of the quality of SSVEP signal. To accomplish this goal, a typical wireless BCIs using dry electrode is proposed for long term application without sacrificing Information Transfer Rate (ITR), Signal to Noise Ratio (SNR). After extracting SSVEP signal using dry electrode, Analog to Digital Conversion (ADC) is proceeded for the wireless transmission for remote BCI paradigms. Finally, after receiving this signal any BCI paradigms can be operated with high degree of accuracy."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Training
-- Artificial neural networks
-- Mathematical model
-- Solar panels
-- Maximum power point trackers
+- Electrodes
+- Electroencephalography
+- Wireless communication
+- Skin
+- Brain-computer interfaces
+- Wireless sensor networks
+- Brain
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

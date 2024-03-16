@@ -28,13 +28,10 @@ abstract: "Breast Cancer (BC) is one of the numerous typical diseases worldwide,
 summary: ''
 
 tags:
-- Radio frequency
-- Machine learning algorithms
-- Computational modeling
-- Pipelines
-- Toy manufacturing industry
-- Breast cancer
-- Real-time systems
+- Data preprocessing
+- Machine learning 
+- Data Science 
+- Feature engineering 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

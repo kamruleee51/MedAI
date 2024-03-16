@@ -29,13 +29,11 @@ IDRiD and DRIVE datasets, whereas it outperforms state-of-the-art results concer
 summary: ''
 
 tags:
-- Diabetic retinopathy and glaucoma 
-- Ophthalmology
-- Skip connection 
-- Residual skip connection
+- Deep learning
+- CNNs
+- AI in medical imaging 
+- Medical image analysis
 - Image segmentation
-- Object localization 
-- UNet
 featured: true
 url_code: https://github.com/kamruleee51/DRNet_Segmentation_Localization_OD_Fovea
 

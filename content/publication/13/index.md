@@ -47,12 +47,12 @@ dataset will be available as a public benchmark for future improvements."
 summary: ''
 #
 tags:
-- ISIC skin lesion datasets
-- Skin lesion classification and segmentation
-- Convolutional neural networks
-- Transfer learning
-- Image augmentation
-
+- Deep learning 
+- CNNs 
+- AI in medical imaging
+- Medical image analysis
+- Image segmentation
+- Image classification
 #featured: true
 url_code: "https://github.com/kamruleee51/Web-App-of-Skin-Lesion-Classification"
   

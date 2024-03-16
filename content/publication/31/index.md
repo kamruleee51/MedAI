@@ -28,11 +28,8 @@ abstract: "ANN has been proved as a powerful discriminating classifier for tasks
 summary: ''
 
 tags:
-- Artificial Neural Network (ANN)
-- Multilayer Perceptron
-- Heart Diseases
-- Liver Disorder
-- Lung Cancer
+- Biomedical signal processing 
+- Machine learning 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

@@ -27,10 +27,12 @@ abstract: "Temporal echocardiography image registration is important for cardiac
 summary: ''
 
 tags:
-- Echocardiography DL registration
+- Deep learning 
+- CNNs 
+- AI in medical imaging  
+- Medical image analysis
 - Image registration
-- Adult and fetal echocardiography
-- Anatomical and data-driven constraints DLIR
+- Cardiac motion tracking  
 featured: true
 url_code: "https://github.com/kamruleee51/ddc-ac-dlir"
 

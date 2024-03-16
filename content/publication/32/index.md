@@ -28,10 +28,9 @@ abstract: "Steady-state visual evoked potential (SSVEP) is used for Brain-Comput
 summary: ''
 
 tags:
-- Computers
-- Electroencephalography
-- Software
-- Color
+- Biomedical signal processing 
+- Brain-computer interface 
+- Biomedical instrumentation 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

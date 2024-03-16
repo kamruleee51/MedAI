@@ -28,13 +28,9 @@ abstract: "A Brain Computer Interface (BCI) provides a new communication channel
 summary: ''
 
 tags:
-- Electroencephalography
-- Visualization
-- Electric potential
-- Electrodes
-- Color
-- Training
-- Accuracy
+- Biomedical signal processing 
+- Brain-computer interface 
+- Biomedical instrumentation 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

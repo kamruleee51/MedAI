@@ -39,13 +39,8 @@ executional attention level is determined by analyzing the different components 
 summary: ''
 
 tags:
-- Electroencephalogram (EEG)
-- Steady-State Visual Evoked Potential (SSVEP)
-- Non-Invasive Signal Recording
-- Power Spectral Density (PSD)
-- Correlation Coefficient
-- Brain Wave
-- Eeg Bands
+- Biomedical signal processing 
+- Brain-computer interface 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

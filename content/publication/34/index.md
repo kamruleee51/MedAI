@@ -28,10 +28,9 @@ abstract: "The motive of this paper is to design a low cost wireless EEG acquisi
 summary: ''
 
 tags:
-- EEG acquisition system
-- Wireless transmission
-- Wearable signal Monitor system
-- PROTEUS & PSPICE simulator
+- Biomedical signal processing 
+- Brain-computer interface 
+- Biomedical instrumentation 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

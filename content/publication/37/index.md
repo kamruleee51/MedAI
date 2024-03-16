@@ -27,12 +27,11 @@ abstract: "Gestational diabetes mellitus (GDM) is characterized by glucose intol
 summary: ''
 
 tags:
-- Diabetes prediction
-- Missing value imputation
-- Feature selection
-- Machine learning
+- Data preprocessing 
+- Machine learning 
+- Feature engineering 
+- Data Science 
 featured: false
-
 
 
 # Featured image

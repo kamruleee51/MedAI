@@ -1,14 +1,14 @@
 ---
-title: "Design and simulation of cost effective wireless EEG acquisition system for patient monitoring"
+title: "A direct noninvasive brain interface with computer based on steady-state visual-evoked potential (SSVEP) with high transfer rates"
 authors:
-- "Md. Kamrul Hasan, Rushdi Zahid Rusho, Toufiq Md. Hossain, Tarun Kanti Ghosh, Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Rushdi Zahid Rusho, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/ICIEV.2014.6850797"
+doi: "https://doi.org/10.1109/ICAEE.2013.6750360"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-05-23"
+publishDate: "2013-12-19"
 
 
 # Publication type.
@@ -19,19 +19,22 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE"
-publication_short: "International Conference on Informatics, Electronics & Vision (ICIEV)"
+publication_short: "International Conference on Advances in Electrical Engineering (ICAEE)"
 
 
-abstract: "The motive of this paper is to design a low cost wireless EEG acquisition system for easily monitoring of the patient. Using local effort and low price employment, this system can be built which includes data acquisition, data transmission, and receiving unit which contains the patient monitoring site. The developed wireless EEG system is also suitable for the applications such as remote control of devices, rescue, etc. Realtime decoding and mobile EEG signal processing with high information transfer rate (ITR) are incorporated in the system. The specialty of the proposed research is inclusion of forth order Butterworth low pass filter which has better stability and sharper cut off with reasonable cost. Using this techniques hardware implementation is possible and GSM system can be added with hardware for long distance wireless transmission of EEG signal. The system performance is simulated by some simulation software. The proposed system is reliable, and cost is about 950 BDT or 12 USD which is reasonable."
+abstract: "A Brain Computer Interface (BCI) provides a new communication channel between human brain and the computer. This paper presents a direct noninvasive brain-computer interface (BCI) that can help users to select any command in the graphical user interface (GUI) such as appliance control, cursor control, typing, making phone call, etc. The system is based on the steady-state visual evoked potential (SSVEP) which use three fixed positioned electrodes for reducing user variation on system performance. The frequency-coded SSVEP is used with different stimuli procedure such as effect of color and angular position of the screen which make the system user independent. The average transfer rate over all subjects is found up to 66.81 bits/min. The attractive features of the system are noninvasive signal recording, little training required for user, higher information transfer rate (HITR) and higher accuracy in living environments."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- EEG acquisition system
-- Wireless transmission
-- Wearable signal Monitor system
-- PROTEUS & PSPICE simulator
+- Electroencephalography
+- Visualization
+- Electric potential
+- Electrodes
+- Color
+- Training
+- Accuracy
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

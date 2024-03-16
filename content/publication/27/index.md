@@ -1,9 +1,9 @@
 ---
-title: "Design and Simulation of Maximum Power Point Tracking of Photovoltaic System Using ANN"
+title: "Drowsiness Detection for the Perfection of Brain Computer Interface Using Viola-jones Algorithm"
 authors:
-- "Md. Samiul Haque Sunny, Abu Naim Rakib Ahmed, Md. Kamrul Hasan"
+- "Md. Kamrul Hasan, S. M. Hasnat Ullah, Shantanu Sen Gupta, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/CEEICT.2016.7873105"
+doi: "https://doi.org/10.1109/CEEICT.2016.7873106"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
@@ -22,17 +22,15 @@ publication: "IEEE"
 publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
 
 
-abstract: "Now a days in power generation, renewable energy plays a vital role in which photovoltaic energy generation placed top in the list of the renewable energy because of the easy process of generation. The photovoltaic energy depends on the solar irradiance and the temperature. To get the maximum power from the PV panel, the idea of Maximum Power Point Tracking (MPPT) is arrived. Too many algorithms and controllers have been considered in the past to track the maximum power and to reduce the tracking time and also to improve the efficiency of PV panel. In this paper, Artificial Neural Network (ANN) techniques is proposed to track the maximum power. The proposed method has been evaluated by simulation in MATLAB environment. The simulation results show the effectiveness of the proposed technique and its ability to track the maximum power of the PV panel."
+abstract: "Security and reconnaissance applications are prominent BCI paradigms which are less complex and sophisticated if there is no contamination in Electroencephalogram (EEG) signal. The better the quality of EEG signal ensures the better the performance (better Information Transfer Rate (ITR), high Signal to Noise Ratio (SNR), high Bandwidth (BW), and so on) of BCI paradigms. Drowsiness is one of the major contamination in EEG signal that hampers the operation of modern BCI paradigms. In this research, a non-intrusive machine vision based concept is used to determine the drowsiness from the patient which ensure the drowsy free EEG signal. In this proposed system, a camera which placed in a way that it records subjects (BCI Users) eye movement in every time as well as it can monitor the open and close state of eye. Viola-jones Algorithm is applicable for the detection of face as well as state of eye (Open, closed or semi-open) which is the key concern for the detection of drowsiness from the patient's EEG signal. After detecting this drowsiness, decision can be easily made for the perfect operation of BCI."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Training
-- Artificial neural networks
-- Mathematical model
-- Solar panels
-- Maximum power point trackers
+- Biomedical signal processing 
+- Brain-computer interface 
+- Feature engineering 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

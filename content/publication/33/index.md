@@ -1,9 +1,9 @@
 ---
-title: "Effect of Diverse Stimulations of Brain on EEG Signal for SSVEP Based Brain Computer Interface"
+title: "A SSVEP Based EEG Signal Analysis to Discriminate the Effects of Music Levels on Executional Attention"
 authors:
-- "Md. Kamrul Hasan, Chayan Mondal, Nahid Al Mahmud, and Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Md. Shazzad Hossain, Tarun Kanti Ghosh, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/ICEEICT.2015.7307454"
+doi: "https://doi.org/10.11648/j.bio.s.2015030301.15"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
@@ -15,23 +15,37 @@ publishDate: "2015-05-01"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE"
-publication_short: "Proc. of 2nd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2015)"
+publication: "Science Publishing Group"
+publication_short: "American Journal of Bioscience and Bioengineering"
 
 
-abstract: "Steady-state visual evoked potential (SSVEP) is used for Brain-Computer Interface that requires little training for user, offers high information transfer rate and higher accuracy in living environments. To elicit an SSVEP, a Repetitive Visual Stimulus (RVS) of rectangular shape has been proposed to the subjects in different ways. RVS is rendered on a computer screen by flashing graphical patterns. The properties of SSVEP depend on the rendering device and frequency, size, shape and color of the stimuli. But, literatures on SSVEP-based BCI are seldom provided with reasons for usefulness of rendering devices or RVS properties. The aim of this research is to study the effect of all these stimulation properties on performance of SSVEP while elicited by a rectangular shape. A correlation matrix is made to help selection of any suitable SSVEP stimulator. The percentage change in energy and power from one kind of stimulation to another is also shown in this paper. Performance achieved in different cases has been compared with each other for apposite understanding. This will help a researcher to select proper stimulation types to elicit SSVEP."
+abstract: " In this work the electrical activity in brain or known as electroencephalogram (EEG) signal is being analyzed to
+study the various effects of sound on the human brain activity. The effect is in the form of variation in either frequency or in
+the power of different EEG bands. A biological EEG signal stimulated by Music listening reflects the state of mind, impacts
+the analytical brain and the subjective-artistic brain. A two channel EEG acquisition unit is being used to extract brain signal
+with high transfer rate as well as good SNR. This paper focused on three types of brain waves which are theta (4-7 Hz), alpha
+(8-12 Hz) and beta wave (13-30 Hz). The analysis is carried out using Power Spectral density (PSD), Correlation co-efficient
+analysis. The outcome of this research depicted that high amplitude Alpha and low amplitude Beta wave and low amplitude
+Alpha and high amplitude Beta wave is associated with melody and rock music respectively meanwhile theta has no effect.
+High power of alpha waves and low power of beta waves that obtained during low levels of sound (Melody) indicate that
+subjects were in relaxed state. When subjects exposed to high level of sound (Rock), beta waves power increased indicating
+subjects in disturbed state. Meanwhile, the decrease of alpha wave magnitude showed that subjects in tense. Thus the subject’s
+executional attention level is determined by analyzing the different components of EEG signal."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Computers
-- Electroencephalography
-- Software
-- Color
+- Electroencephalogram (EEG)
+- Steady-State Visual Evoked Potential (SSVEP)
+- Non-Invasive Signal Recording
+- Power Spectral Density (PSD)
+- Correlation Coefficient
+- Brain Wave
+- Eeg Bands
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

@@ -1,14 +1,14 @@
 ---
-title: "Prediction of disease level using multilayer perceptron of Artificial Neural Network for patient monitoring"
+title: "Effect of Diverse Stimulations of Brain on EEG Signal for SSVEP Based Brain Computer Interface"
 authors:
-- "Md Osman Goni Nayeem, Maung Ning Wan, Md Kamrul Hasan"
+- "Md. Kamrul Hasan, Chayan Mondal, Nahid Al Mahmud, and Mohiuddin Ahmad"
 #date: "2020-04-2"
-# doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
+doi: "https://doi.org/10.1109/ICEEICT.2015.7307454"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-09-01"
+publishDate: "2015-05-01"
 
 
 # Publication type.
@@ -18,21 +18,20 @@ publishDate: "2015-09-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IInternational Journal of Soft Computing and Engineering (IJSCE)"
-publication_short: "International Journal of Soft Computing and Engineering (IJSCE)"
+publication: "IEEE"
+publication_short: "Proc. of 2nd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2015)"
 
 
-abstract: "ANN has been proved as a powerful discriminating classifier for tasks in medical diagnosis for early detection of diseases. In our research, ANN has been used for predicting three different diseases (heart disease, liver disorder, lung cancer). Feed-forward back propagation neural network algorithm with Multi-Layer Perceptron is used as a classifier to distinguish between infected or non-infected person. The results of applying the ANNs methodology to diagnosis of these disease based upon selected symptoms show abilities of the network to learn the patterns corresponding to symptoms of the person. In our proposed work, Multi-Layer Perceptron with having 2 hidden layer is used to predict medical diseases. Here in case of liver disorder prediction patients are classified into four categories: normal condition, abnormal condition (initial), abnormal condition and severe condition. This neural network model shows good performance in predicting disease with less error."
+abstract: "Steady-state visual evoked potential (SSVEP) is used for Brain-Computer Interface that requires little training for user, offers high information transfer rate and higher accuracy in living environments. To elicit an SSVEP, a Repetitive Visual Stimulus (RVS) of rectangular shape has been proposed to the subjects in different ways. RVS is rendered on a computer screen by flashing graphical patterns. The properties of SSVEP depend on the rendering device and frequency, size, shape and color of the stimuli. But, literatures on SSVEP-based BCI are seldom provided with reasons for usefulness of rendering devices or RVS properties. The aim of this research is to study the effect of all these stimulation properties on performance of SSVEP while elicited by a rectangular shape. A correlation matrix is made to help selection of any suitable SSVEP stimulator. The percentage change in energy and power from one kind of stimulation to another is also shown in this paper. Performance achieved in different cases has been compared with each other for apposite understanding. This will help a researcher to select proper stimulation types to elicit SSVEP."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Artificial Neural Network (ANN)
-- Multilayer Perceptron
-- Heart Diseases
-- Liver Disorder
-- Lung Cancer
+- Computers
+- Electroencephalography
+- Software
+- Color
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

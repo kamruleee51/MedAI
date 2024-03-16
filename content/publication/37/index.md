@@ -1,44 +1,44 @@
 ---
-title: "Multi-scale, data-driven and anatomically constrained deep learning image registration for adult and fetal echocardiography"
+title: "Gestational diabetes prediction in pregnancy: A machine learning and data preprocessing approach"
 authors:
-- "Md. Kamrul Hasan, Haobo Zhu, Guang Yang, Choon Hwai Yap"
+- "Tanver Hasan Riyed, Tasnia Nabi, Aishwariya Dutta, Md. Kamrul Hasan, Ferdous Wahid Anik, Akid Ornob"
 #date: "2023-09-2"
-url_pdf: "https://arxiv.org/abs/2309.00831"
+doi: "10.1109/ICCIT60459.2023.10441112"
 
-url_video: https://www.youtube.com/watch?v=eGUU-rqWznY&t=4s&loop=0
+
  
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-02"
+publishDate: "2023-12-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ArXiv"
-publication_short: "ArXiv"
+publication: "2023 26th International Conference on Computer and Information Technology (ICCIT), Bangladesh, 13-15 December 2023, pp. 1-6"
+publication_short: "2023 26th International Conference on Computer and Information Technology (ICCIT), Bangladesh, 13-15 December 2023, pp. 1-6"
 
-abstract: "Temporal echocardiography image registration is important for cardiac motion estimation, myocardial strain assessments, and stroke volume quantifications. Deep learning image registration is a promising way to achieve consistent and accurate registration results with low computational time. We propose that a greater focus on the warped image's anatomic plausibility and image texture can support robust results and show that it has sufficient robustness to be applied to both fetal and adult echocardiography. Our proposed framework includes (1) an anatomic shape-encoded loss to preserve physiological myocardial and left ventricular anatomical topologies, (2) a data-driven loss to preserve good texture features, and (3) a multi-scale training of a data-driven and anatomically constrained algorithm to improve accuracy. Our experiments demonstrate a strong correlation between the shape-encoded loss and good anatomical topology and between the data-driven loss and image textures. They improve different aspects of registration results in a non-overlapping way. We demonstrate that these methods can successfully register both adult and fetal echocardiography using the public CAMUS adult dataset and our fetal dataset, despite the inherent differences between adult and fetal echocardiography. Our approach also outperforms traditional non-DL gold standard registration approaches, including optical flow and Elastix, and could be translated into more accurate and precise clinical quantification of cardiac ejection fraction, demonstrating potential for clinical utility."
+abstract: "Gestational diabetes mellitus (GDM) is characterized by glucose intolerance during pregnancy, resulting in an elevated blood glucose level and short-term and long-term health burdens. Therefore, early screening would aid in reducing complications associated with GDM and adverse pregnancy outcomes. Machine learning (ML) algorithms are a promising alternative to manual GDM early-stage assessment. In this article, we propose a machine learning (ML) pipeline that employs five distinct classifiers: decision trees (DT), linear discriminant analysis (LDA), logistic regression (LR), XGBoost (XGB), and Gaussian naive Bayes (GNB). Our framework incorporates the essential preprocessing stages, such as filling in missing values, selecting important features, tuning hyperparameters, and applying stratified K-fold cross-validation to improve the model’s robustness and precision. The K-Nearest Neighbors (KNN) method outperforms the other strategies in the proposed framework based on a comprehensive analysis of three distinct missing data imputation techniques. In addition, eight out of fifteen features are chosen, implementing a procedure for feature selection. Finally, when the XGB classifier is combined with the presented preprocessing, the performance improves by significant margins, yielding the utmost achievable accuracy of 0.9719 and an area under the ROC curve of 0.9982. This promising result makes our pipeline useful for GDM prediction in the earliest stages."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Echocardiography DL registration
-- Image registration
-- Adult and fetal echocardiography
-- Anatomical and data-driven constraints DLIR
-featured: true
-url_code: "https://github.com/kamruleee51/ddc-ac-dlir"
+- Diabetes prediction
+- Missing value imputation
+- Feature selection
+- Machine learning
+featured: false
+
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Proposed data-driven and anatomically constrained DLIR'
+  caption: 'Presented block diagram of the GDM classification to diabetes (positive) or non-diabetes (negative)'
   focal_point: ""
   preview_only: false
 

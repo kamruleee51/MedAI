@@ -1,14 +1,14 @@
 ---
-title: "Design and implementation of low cost ECG monitoring system for the patient using smartphone"
+title: "Prediction of disease level using multilayer perceptron of Artificial Neural Network for patient monitoring"
 authors:
-- "Md Asif Ahamed, Md Kamrul Hasan, Md Shahabul Alam"
+- "Md Osman Goni Nayeem, Maung Ning Wan, Md Kamrul Hasan"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/CEEE.2015.7428272"
+# doi: "https://doi.org/10.1109/TENSYMP50017.2020.9230708"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-11-04"
+publishDate: "2015-09-01"
 
 
 # Publication type.
@@ -18,23 +18,21 @@ publishDate: "2015-11-04"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE"
-publication_short: "2015 International Conference on Electrical & Electronic Engineering (ICEEE)"
+publication: "IInternational Journal of Soft Computing and Engineering (IJSCE)"
+publication_short: "International Journal of Soft Computing and Engineering (IJSCE)"
 
 
-abstract: "Electrocardiographic (ECG) equipment plays a vital role for diagnosis of cardiac disease. However, the cost of this equipment is huge and the operation is too much complex which cannot offer better services to a large population in developing countries like Bangladesh. In this paper, we have designed and implemented a low cost portable single channel ECG monitoring system using smartphone having android operating system and Arduino. This manuscript also demonstrates the use of Android smartphone for processing and visualizing ECG signal. Our designed system is battery powered and it gives wireless feature. This system can also be used with desktop computer or laptop having either Windows, Linux or Mac OS. For this purpose a software is developed. An Android application is developed using Processing IDE, which requires Android version 2.3 and API level of 10. This application does not need USB host API. For this reason, around 98% Android smartphone in the market can be used for this system."
+abstract: "ANN has been proved as a powerful discriminating classifier for tasks in medical diagnosis for early detection of diseases. In our research, ANN has been used for predicting three different diseases (heart disease, liver disorder, lung cancer). Feed-forward back propagation neural network algorithm with Multi-Layer Perceptron is used as a classifier to distinguish between infected or non-infected person. The results of applying the ANNs methodology to diagnosis of these disease based upon selected symptoms show abilities of the network to learn the patterns corresponding to symptoms of the person. In our proposed work, Multi-Layer Perceptron with having 2 hidden layer is used to predict medical diseases. Here in case of liver disorder prediction patients are classified into four categories: normal condition, abnormal condition (initial), abnormal condition and severe condition. This neural network model shows good performance in predicting disease with less error."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Electrocardiography
-- Band-pass filters
-- Electrodes
-- Portable computers
-- Androids
-- Humanoid robots
-- Software
+- Artificial Neural Network (ANN)
+- Multilayer Perceptron
+- Heart Diseases
+- Liver Disorder
+- Lung Cancer
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

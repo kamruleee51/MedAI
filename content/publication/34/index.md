@@ -1,51 +1,37 @@
 ---
-title: "A SSVEP Based EEG Signal Analysis to Discriminate the Effects of Music Levels on Executional Attention"
+title: "Design and simulation of cost effective wireless EEG acquisition system for patient monitoring"
 authors:
-- "Md. Kamrul Hasan, Md. Shazzad Hossain, Tarun Kanti Ghosh, Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Rushdi Zahid Rusho, Toufiq Md. Hossain, Tarun Kanti Ghosh, Mohiuddin Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.11648/j.bio.s.2015030301.15"
+doi: "https://doi.org/10.1109/ICIEV.2014.6850797"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-05-01"
+publishDate: "2014-05-23"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Science Publishing Group"
-publication_short: "American Journal of Bioscience and Bioengineering"
+publication: "IEEE"
+publication_short: "International Conference on Informatics, Electronics & Vision (ICIEV)"
 
 
-abstract: " In this work the electrical activity in brain or known as electroencephalogram (EEG) signal is being analyzed to
-study the various effects of sound on the human brain activity. The effect is in the form of variation in either frequency or in
-the power of different EEG bands. A biological EEG signal stimulated by Music listening reflects the state of mind, impacts
-the analytical brain and the subjective-artistic brain. A two channel EEG acquisition unit is being used to extract brain signal
-with high transfer rate as well as good SNR. This paper focused on three types of brain waves which are theta (4-7 Hz), alpha
-(8-12 Hz) and beta wave (13-30 Hz). The analysis is carried out using Power Spectral density (PSD), Correlation co-efficient
-analysis. The outcome of this research depicted that high amplitude Alpha and low amplitude Beta wave and low amplitude
-Alpha and high amplitude Beta wave is associated with melody and rock music respectively meanwhile theta has no effect.
-High power of alpha waves and low power of beta waves that obtained during low levels of sound (Melody) indicate that
-subjects were in relaxed state. When subjects exposed to high level of sound (Rock), beta waves power increased indicating
-subjects in disturbed state. Meanwhile, the decrease of alpha wave magnitude showed that subjects in tense. Thus the subject’s
-executional attention level is determined by analyzing the different components of EEG signal."
+abstract: "The motive of this paper is to design a low cost wireless EEG acquisition system for easily monitoring of the patient. Using local effort and low price employment, this system can be built which includes data acquisition, data transmission, and receiving unit which contains the patient monitoring site. The developed wireless EEG system is also suitable for the applications such as remote control of devices, rescue, etc. Realtime decoding and mobile EEG signal processing with high information transfer rate (ITR) are incorporated in the system. The specialty of the proposed research is inclusion of forth order Butterworth low pass filter which has better stability and sharper cut off with reasonable cost. Using this techniques hardware implementation is possible and GSM system can be added with hardware for long distance wireless transmission of EEG signal. The system performance is simulated by some simulation software. The proposed system is reliable, and cost is about 950 BDT or 12 USD which is reasonable."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Electroencephalogram (EEG)
-- Steady-State Visual Evoked Potential (SSVEP)
-- Non-Invasive Signal Recording
-- Power Spectral Density (PSD)
-- Correlation Coefficient
-- Brain Wave
-- Eeg Bands
+- EEG acquisition system
+- Wireless transmission
+- Wearable signal Monitor system
+- PROTEUS & PSPICE simulator
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

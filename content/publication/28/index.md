@@ -1,14 +1,14 @@
 ---
-title: "Drowsiness Detection for the Perfection of Brain Computer Interface Using Viola-jones Algorithm"
+title: "Performance Analysis of SSVEP Based Wireless Brain Computer Interface for Wet and Dry Electrode"
 authors:
-- "Md. Kamrul Hasan, S. M. Hasnat Ullah, Shantanu Sen Gupta, Mohiuddin Ahmad"
+- "Md. Kamrul Hasan, Chayan Mondal, Mohiuddin Mahmud, Nahid Al , Ahmad"
 #date: "2020-04-2"
-doi: "https://doi.org/10.1109/CEEICT.2016.7873106"
+doi: "https://doi.org/10.1109/ICAEE.2015.7506797"
 
 #url_video: https://youtu.be/Knp4JIhH3Yo
   
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-09-23"
+publishDate: "2015-12-18"
 
 
 # Publication type.
@@ -19,22 +19,18 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE"
-publication_short: "Proc. of 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016) "
+publication_short: "3rd International Conference on Advances in Electrical Engineering (ICAEE)"
 
 
-abstract: "Security and reconnaissance applications are prominent BCI paradigms which are less complex and sophisticated if there is no contamination in Electroencephalogram (EEG) signal. The better the quality of EEG signal ensures the better the performance (better Information Transfer Rate (ITR), high Signal to Noise Ratio (SNR), high Bandwidth (BW), and so on) of BCI paradigms. Drowsiness is one of the major contamination in EEG signal that hampers the operation of modern BCI paradigms. In this research, a non-intrusive machine vision based concept is used to determine the drowsiness from the patient which ensure the drowsy free EEG signal. In this proposed system, a camera which placed in a way that it records subjects (BCI Users) eye movement in every time as well as it can monitor the open and close state of eye. Viola-jones Algorithm is applicable for the detection of face as well as state of eye (Open, closed or semi-open) which is the key concern for the detection of drowsiness from the patient's EEG signal. After detecting this drowsiness, decision can be easily made for the perfect operation of BCI."
+abstract: "A Brain-computer Interface (BCI) is a communication pathway to provide ease to the users for interacting with the outside surroundings after translating brain signals into machine commands. The modern Steady-state Visual Evoked Potential (SSVEP) based Electroencephalographic (EEG) signals has become the most sophisticated methodology for a BCI paradigms. So, the perfection of SSVEP signal make the perfection of the BCI paradigm. The use of gel based wet electrode for the extraction of EEG signal is too much noisy and unpredictable for long time measurement which degrades the quality of SSVEP signal in a consequence degrades the performance of modern BCI paradigm. In our research, we are trying to solve this degradation of the quality of SSVEP signal. To accomplish this goal, a typical wireless BCIs using dry electrode is proposed for long term application without sacrificing Information Transfer Rate (ITR), Signal to Noise Ratio (SNR). After extracting SSVEP signal using dry electrode, Analog to Digital Conversion (ADC) is proceeded for the wireless transmission for remote BCI paradigms. Finally, after receiving this signal any BCI paradigms can be operated with high degree of accuracy."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- Electroencephalography
-- Band-pass filters
-- Face
-- Contamination
-- Cameras
-- Monitoring
-- Feature extraction
+- Biomedical signal processing 
+- Brain-computer interface 
+- Biomedical instrumentation 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

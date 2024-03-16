@@ -26,14 +26,11 @@ indistinguishable boundaries. Through this study, we present a new and automatic
 summary: ''
 
 tags:
-- Skin lesion segmentation
-- Computer-aided diagnosis
-- Melanoma detection
+- Image segmentation
+- Medical image analysis
+- AI in medical imaging
 - Deep learning
-- Fully convolutional network
-- UNet
-- ISIC-2017
-- PH2
+- CNNs
 featured: true
 url_code: https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet
 url_video: https://www.youtube.com/watch?v=m3u58LN9lns&loop=0

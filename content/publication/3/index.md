@@ -24,14 +24,10 @@ abstract: "The risk factors and severity of diabetes can be reduced significantl
 summary: ''
 
 tags:
-- Diabetes prediction
-- Ensembling classifier
+- Data preprocessing
 - Machine learning
-- Data standardization
-- Feature selection
-- Multilayer perceptron
-- Missing value imputation
-- Outlier rejection
+- Feature engineering 
+- Data Science 
 featured: false
 url_code: https://github.com/kamruleee51/Diabetes-Prediction-Using-ML-Classifiers
 

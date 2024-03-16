@@ -28,10 +28,11 @@ abstract: "Since the COVID-19 pandemic, several research studies have proposed D
 summary: ''
 
 tags:
-- COVID-19 disease
-- Chest computed tomography and X-ray
-- Convolutional neural networks
-- Ensemble classifier
+- Deep learning 
+- CNNs 
+- AI in medical imaging 
+- Medical image analysis 
+- Image classification 
 #featured: true
 url_code: "https://github.com/kamruleee51/CVR-Net"
   

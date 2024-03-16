@@ -28,12 +28,12 @@ abstract: "People undergoing neuromuscular dysfunctions and amputated limbs requ
 summary: ''
 
 tags:
-- Standardization
-- Brain modeling
-- Turning
-- Electroencephalography
-- Discrete wavelet transforms
-- Convolutional neural networks
+- Data preprocessing 
+- Machine learning 
+- Data Science 
+- Feature engineering 
+- CNNs 
+- Biomedical signal processing  
 #featured: true
 
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"

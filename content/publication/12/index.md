@@ -36,13 +36,12 @@ from Mammograms by using the pre-trained DCNN, which can be used with the SVM cl
 summary: ''
 
 tags:
-- Feature extraction
-- Support vector machines
-- Pipelines
-- Robustness
-- Convolutional neural networks
-- Breast cancer
-- Mammography
+- Deep learning 
+- CNNs 
+- Machine learning 
+- Feature engineering 
+- Medical image analysis 
+- Image classification 
 #featured: true
 url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

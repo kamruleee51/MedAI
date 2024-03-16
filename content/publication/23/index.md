@@ -28,12 +28,11 @@ abstract: "Acute Lymphoblastic Leukemia (ALL) is a blood cell cancer characteriz
 summary: ''
 
 tags:
-
-- Acute Lymphoblastic Leukemia
-- Deep Convolutional Neural Networks
-- Transfer learning
-- Ensemble image classifiers
-- C-NMC-2019 dataset
+- Deep learning 
+- CNNs
+- AI in medical imaging 
+- Medical image analysis 
+- Image classification 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

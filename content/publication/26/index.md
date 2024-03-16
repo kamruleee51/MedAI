@@ -1,5 +1,5 @@
 ---
-title: "Prediction of Epileptic Seizure by Analysing Time Series EEG Signal Using -NN Classifier"
+title: "Prediction of Epileptic Seizure by Analysing Time Series EEG Signal Using kNN Classifier"
 authors:
 - "Md. Kamrul Hasan, Md. Asif Ahamed, Mohiuddin Ahmad, M. A and Rashid"
 #date: "2020-04-2"
@@ -28,11 +28,11 @@ abstract: "Electroencephalographic signal is a representative signal that contai
 summary: ''
 
 tags:
-- Feature extraction
-- Support vector machines
-- Pipelines
-- Robustness
-
+- Data preprocessing 
+- Machine learning 
+- Feature engineering 
+- Data Science 
+- Biomedical signal processing 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

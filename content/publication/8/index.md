@@ -39,13 +39,13 @@ An informative comparison, recent research trends, and some recommendations are 
 summary: ''
 
 tags:
-- Emotion recognition
-- Electroencephalography
-- Brain modeling
-- Support vector machines
-- Solid modeling
-- Human computer interaction
-- Three-dimensional displays
+- Data preprocessing 
+- Deep learning
+- Machine learning
+- Feature engineering
+- Biomedical signal processing
+- Data Science
+- Brain-computer interface
 #featured: true
 url_code: ""
  

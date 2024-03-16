@@ -44,14 +44,11 @@ approaches with different datasets while addressing the limitations and current 
 summary: ''
 
 tags:
-- Hidden Markov models
-- Speech recognition
-- Speech processing
-- Sentiment analysis
-- Machine learning
-- Task analysis
-- Machine translation
-
+- Data preprocessing 
+- Machine learning 
+- Deep learning 
+- Natural language processing 
+- Feature engineering 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

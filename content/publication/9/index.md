@@ -40,13 +40,11 @@ a medical diagnostic aiding tool for helping experts with quicker and more accur
 summary: ''
 
 tags:
-- Heart
 - Image segmentation
-- Magnetic resonance imaging
-- Computed tomography
-- Shape
-- Blood
-- Training
+- CNNs
+- Deep learning
+- Medical image analysis
+- Image registration
 #featured: true
 url_code: ""
  

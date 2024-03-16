@@ -35,12 +35,11 @@ successfully distinguish skin cancer with a high degree of accuracy, which has t
 summary: ''
 
 tags:
-- Skin cancer
-- Image augmentation
-- Deep convolutional neural network
-- Transfer learning
-- Melanoma recognition
-
+- Deep learning 
+- CNNs
+- AI in medical imaging
+- Medical image analysis
+- Image classification
 #featured: true
 url_code: ""
   

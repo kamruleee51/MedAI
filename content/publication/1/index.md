@@ -24,14 +24,12 @@ abstract: Automatic segmentation of brain magnetic resonance imaging (MRI) image
 summary: ''
 
 tags:
-- Magnetic resonance imaging
-- Brain tissue segmentation
-- NeuroNet
-- ResNet
-- Fully convolutional network
-- IBSR18
-- Simple-ITK
+- AI in medical imaging
+- Medical image analysis
+- Image segmentation
 - Image registration
+- CNNs
+- Deep learning
 url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
 
 

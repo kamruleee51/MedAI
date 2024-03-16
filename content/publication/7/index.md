@@ -27,7 +27,10 @@ abstract: "Measles is one of the significant public health issues responsible fo
 summary: ''
 
 tags:
-- Measles vaccine uptake classification
+- Data preprocessing
+- Machine learning
+- Feature engineering
+- Data Science
 #featured: true
 url_code: "https://github.com/kamruleee51/measles_vaccine_uptake"
  

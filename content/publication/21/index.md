@@ -28,11 +28,11 @@ abstract: "Steady-state Visually Evoked Potential (SSVEP) based Electroencephalo
 summary: ''
 
 tags:
-- electroencephalogram
-- EEG artifacts
-- Adaptive neuro-fuzzy interface systems
-- Hilbert-Huang transform
-- Artifact’s removal
+- Data preprocessing 
+- Machine learning 
+- Data Science 
+- Feature engineering 
+- Biomedical signal processing 
 #featured: true
 # url_code: "https://github.com/kamruleee51/Automatic-Mass-Classification-in-Breast"
   

@@ -34,12 +34,14 @@ Several ablation studies are provided for detection, segmentation, and geometric
 summary: ''
 
 tags:
-- Computer-assisted laparoscopy
-- Augmented reality
+- Computer-assisted intervention
+- CNNs
 - Deep learning
-- Segmentation
+- Image segmentation
 - 3D pose estimation
-- Algebraic geometry
+- Augmented reality
+- AI in medical imaging
+- Medical image analysis
 featured: true
 url_code: "https://github.com/kamruleee51/ART-Net"
 

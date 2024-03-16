@@ -28,12 +28,10 @@ abstract: "COVID-19 has imposed many challenges and barriers on traditional heal
 summary: ''
 
 tags:
-- Adaptive synthetic sampling 
-- Android or web-based user applications 
-- COVID-19 prediction
-- Feature selection methods 
-- Machine learning classifiers
-
+- Data preprocessing 
+- Machine learning 
+- Data Science 
+- Feature engineering 
 #featured: true
 url_code: "https://github.com/awalece04ku/Covid-ML"
   

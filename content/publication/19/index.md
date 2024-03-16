@@ -28,12 +28,10 @@ abstract: "Diabetes is one of the most rapidly spreading diseases in the world, 
 summary: ''
 
 tags:
-- Artificial intelligence
-- Diabetes prediction
-- Ensemble ML classifier
-- Filling missing value
-- Outlier rejection
-- South Asian diabetes dataset
+- Data preprocessing 
+- Machine learning 
+- Data Science 
+- Feature engineering 
 #featured: true
 url_code: "https://github.com/kamruleee51/Diabetes-classification-dataset"
   

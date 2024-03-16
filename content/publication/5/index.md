@@ -26,13 +26,12 @@ The achieved segmentation results exhibit mean intersection over unions of 85.0%
 summary: ''
 
 tags:
-- Melanoma detection
-- Skin lesion segmentation
-- Skin lesion classification
+- Deep learning
 - CNNs
-- Dual encoder networks
-- ISIC-2017
-- ISIC-2016
+- AI in medical imaging
+- Medical image analysis
+- Image segmentation
+- Image classification
 featured: true
 url_video: "https://www.youtube.com/watch?v=6Rs-jifzlwM&loop=0"
 

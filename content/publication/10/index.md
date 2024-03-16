@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing"
 authors:
-- "Md Kamrul Hasan, Md Tasnim Jawada, Kazi Nasim Imtiaz Hasanb, Sajal Basak Partha, Md Masum Al Masba, Shumit Saha, Mohammad Ali Moni"
+- "Md Kamrul Hasan, Md Tasnim Jawad, Kazi Nasim Imtiaz Hasan, Sajal Basak Partha, Md Masum Al Masba, Shumit Saha, Mohammad Ali Moni"
 #date: "2020-04-2"
 doi: "https://doi.org/10.1016/j.imu.2021.100709"
 
@@ -40,11 +40,12 @@ results delegate it as a favorable aiding tool for clinical practitioners and ra
 summary: ''
 
 tags:
-- COVID-19
-- 3D convolutional neural network
-- Volumetric chest CT scans
-- 3D patches
-- Progressive resizing
+- Deep learning
+- CNNs
+- AI in medical imaging
+- Medical image analysis
+- Image segmentation
+- Image classification
 #featured: true
 url_code: ""
  
